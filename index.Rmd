@@ -8,7 +8,7 @@ Welcome to my personal webiste - here I host my research output, CV, and reposit
 
 <span style="color:blue">I try to conduct my research following the Open Science Framework</span>
 
-This website, hosted through Github and created in RMarkDown, is a repository for all information, publications, posters, and posts related to my academic work. Please check out my research interests and publications sections to learn about my specific interests. 
+This website, hosted through Github and created in RMarkDown, is a repository for all information, publications, posters, and posts related to my academic work. 
 
 On the whole my focus is on executive dysfunction following brain injury (stroke, TBI etc) and how we measure this from an open science perspecitive. 
 
