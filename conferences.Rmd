@@ -5,23 +5,23 @@ title: "Conferences"
 
 ## <span style="color:dodgerblue">Poster content and location
 
-<span style="color:purple">*MSc Multiverse Analysis*
+<span style="color:purple">*MSc Multiverse Analysis*  -- July 2019
 
 - Department of Experimental Psychology, Uni. of Oxford
 ![Presenting my MSc dissertation](MScposter.jpg)
 
-<span style="color:purple">*Oxford Digital Multiple Errands Test*
+<span style="color:purple">*Oxford Digital Multiple Errands Test* -- April 2019
 
 - British Neuropsychology Society (BNS) 
 
-<span style="color:purple">*Validation of Executive Tests*
+<span style="color:purple">*Validation of Executive Tests* -- October 2019
 
-- Organisation for Psychological Research into Stroke (OPSYRIS)
+- Organisation for Psychological Research into Stroke (OPSYRIS) 
 
 <span style="color:purple">*The COMPASS tool*
 
 
-- Federation of the European Societies of Neuropsychology (FESN) 
+- Federation of the European Societies of Neuropsychology (FESN) -- September 2019
 ![Presenting at FESN](FESNposter.jpg)
 
-- UK Stroke Forum
+- UK Stroke Forum - December 2019
