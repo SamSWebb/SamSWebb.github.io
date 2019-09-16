@@ -1,2 +1,2 @@
-# SamSWebb.github.io
-My personal website
+# SamSWebb
+Personal website

@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+
+Here you can find my current (open access) projects - some are completed and some are the works, both signified.
+
+## Completed: [MSc Dissertation](https://osf.io/cktj9/)
+
+* This forms the storage for my MSc work
+* Including
+    + Final anonymised data (both controls and patients data)
+    + Analysis script to reproduce my analysis
+    + Original pre-registration and files explaining changes along the research pipeline
+  
+
+## Completed: [Essay on alternative facts in psychology ](https://osf.io/5wmkr/)
+
+* This was an essay I wrote in 2017 for my second year of my undergraduate when I just got into Open science. I uploaded this more as a personal joke as I had no idea about open science at that point and had only just stumbled into the state of psychology (i.e., it is on fire).
+
+
+
+## <span style="color:dodgerblue">In progress:
+
+### <span style="color:deeppink"> Oxford Cognitive Screen Plus - validation and norming
+
+* A new tool, an updated and more domain specific addition to the [Oxford Cognitive Screen](https://www.ocs-test.org/)
+* This is an upcoming paper (to be published on the AMRC framework) which provides normative scoring and validation for a new assessment of the cognitive domains: lanuage, memory, executive function, and attention. 
+* As a lab we are also assessing the sensitivity and specifity of the task to MCI and dementia and preliminary results are hopeful
+
+### <span style="color:deeppink">Oxford Digital Multiple Errands Test - partial validation and norming
+
+* This is a project in preparation which establishes the normative scoring for a new version of the widely used Multiple Errands Test which is on a computer tablet [(Shallice and Burgess, 1991)](https://www.researchgate.net/publication/21111959_Deficits_in_strategy_application_following_frontal_lobe_damage_in_man). 
+* This holds some reliability measures (split half, and test retest) as well as convergent and divergent validation (correlations). 
+* We compare neurologically healthy controls to stroke survivors. 
+
+### <span style="color:deeppink">The COMPetency ASSessment (COMPASS) - validation and norming
+
+* This project 
+
+
+
+
+

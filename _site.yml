@@ -1,0 +1,23 @@
+name: "SamSWebb"
+navbar:
+  title: "Sam S. Webb"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Conferences"
+      href: conferences.html
+    - text: "CV"
+      href: cv.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Saffello96
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/sam-webb-232143158/
+output:
+  html_document:
+    theme: cosmo
+    css: style.css

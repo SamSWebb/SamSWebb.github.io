@@ -1,0 +1,27 @@
+---
+title: "Conferences"
+---
+
+
+## <span style="color:dodgerblue">Poster content and location
+
+<span style="color:purple">*MSc Multiverse Analysis*
+
+- Department of Experimental Psychology, Uni. of Oxford
+![Presenting my MSc dissertation](MScposter.jpg)
+
+<span style="color:purple">*Oxford Digital Multiple Errands Test*
+
+- British Neuropsychology Society (BNS) 
+
+<span style="color:purple">*Validation of Executive Tests*
+
+- Organisation for Psychological Research into Stroke (OPSYRIS)
+
+<span style="color:purple">*The COMPASS tool*
+
+
+- Federation of the European Societies of Neuropsychology (FESN) 
+![Presenting at FESN](FESNposter.jpg)
+
+- UK Stroke Forum
