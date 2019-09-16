@@ -38,7 +38,7 @@ Here you can find my current (open access) projects - some are completed and som
 ### <span style="color:deeppink">The COMPetency ASSessment [(COMPASS)](http://www.demeyerelab.org/?page_id=469) - validation and norming
 
 * This project is again about validation this time for a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents). 
-* The paper for this will be out after the OxMET paper as the OxMET is part of the COMPASS but to big as its own task to include in the COMPASS paper. 
+* The paper for this will be out after the OxMET paper as the OxMET is part of the COMPASS but too big as its own task to include in the COMPASS paper. 
 
 
 
