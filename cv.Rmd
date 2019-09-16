@@ -5,8 +5,6 @@ title: "CV"
 
 __Current Occupation:__ Research Assistant
 
-My full CV is available [here](Sam Webb Academic CV - webb.pdf).
-
 ## <span style="color:dodgerblue">Research Experience
 
 <span style="color:#002147">**July 2019 – July 2020 – Research Assistant**
@@ -66,13 +64,13 @@ I learned how to conduct experiments whilst also solidifying my knowledge of the
 
 # Certifications
 
-- <span style="color:dodgerblue">**R**: Proficient for data cleaning, manipulation, analysis, and reporting.
+- **R**: Proficient for data cleaning, manipulation, analysis, and reporting.
 
-- <span style="color:dodgerblue">**MATLAB**: Proficient for data collection, cleaning and manipulation
+- **MATLAB**: Proficient for data collection, cleaning and manipulation
 
-- <span style="color:dodgerblue">**Inferential Statistics 7-week course, by Dr Daniël Lakens**: 88.30 % - October 2018
+- **Inferential Statistics 7-week course, by Dr Daniël Lakens**: 88.30 % - October 2018
 
-- <span style="color:dodgerblue">**NHS Good Clinical Practice: Research Integrity training**: 95% - Certificate available
+- **NHS Good Clinical Practice: Research Integrity training**: 95% - Certificate available
 
 
 

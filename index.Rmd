@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 ---
-Welcome to my personal webiste - here I host my research output, CV, and repositories for projects. 
+Welcome to my personal website - here I host my research output, CV, and repositories for projects. 
 
 <img src="Sam_Webb_LabPhoto2.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
