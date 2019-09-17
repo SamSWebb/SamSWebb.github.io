@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 <img src="Sam_Webb_LabPhoto2.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
-
+<img src="Sommervilledinner.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="right">
 
 <span style="color:blue">I try to conduct my research following an open science framework</span>
 
