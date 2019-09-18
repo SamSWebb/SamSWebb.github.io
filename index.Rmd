@@ -3,7 +3,7 @@ title: "Welcome"
 ---
 <img src="Sam_Webb_LabPhoto2.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
-<span style="color:blue">I try to conduct my research following an open science framework</span>
+<span style="color:dodgerblue">I try to conduct my research following an open science framework</span>
 
 This website, hosted through Github and created in RMarkdown, is a repository for all information, publications, posters, and posts related to my academic work. 
 
