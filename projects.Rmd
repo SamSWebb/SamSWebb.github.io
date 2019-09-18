@@ -4,7 +4,7 @@ title: "Projects"
 
 Here you can find my current (open access) projects - some are completed and some are the works, both signified.
 
-## <span style="color:dodgerblue">Completed:
+## <span style="color:deepskyblue1">Completed:
 
 ### [MSc Dissertation](https://osf.io/cktj9/)
 
@@ -21,12 +21,12 @@ Here you can find my current (open access) projects - some are completed and som
 
 
 
-## <span style="color:dodgerblue">In progress:
+## <span style="color:deepskyblue1">In progress:
 
 ### <span style="color:deepskyblue1"> [Oxford Cognitive Screen Plus](http://www.demeyerelab.org/?page_id=434) - validation and norming
 
 * A new tool, an updated and more domain specific addition to the [Oxford Cognitive Screen](https://www.ocs-test.org/)
-* This is an upcoming paper (to be published on the AMRC framework) which provides normative scoring and validation for a new assessment of the cognitive domains: lanuage, memory, executive function, and attention. 
+* This is an upcoming paper (to be published on the AMRC framework) which provides normative scoring and validation for a new assessment of the cognitive domains: language, memory, executive function, and attention. 
 * As a lab we are also assessing the sensitivity and specifity of the task to MCI and dementia and preliminary results are hopeful
 
 ### <span style="color:">Oxford Digital Multiple Errands Test (OxMET) - partial validation and norming
