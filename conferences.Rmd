@@ -8,7 +8,6 @@ title: "Conferences"
 <span style="color:purple">*MSc Multiverse Analysis*  -- July 2019
 
 - Department of Experimental Psychology, Uni. of Oxford
-![Presenting my MSc dissertation](MScposter.jpg)
 
 <span style="color:purple">*Oxford Digital Multiple Errands Test* -- April 2019
 
@@ -22,6 +21,5 @@ title: "Conferences"
 
 
 - Federation of the European Societies of Neuropsychology (FESN) -- September 2019
-![Presenting at FESN](FESNposter.jpg)
 
 - UK Stroke Forum - December 2019
