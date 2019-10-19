@@ -5,6 +5,27 @@ title: "CV"
 
 __Current Occupation:__ Research Assistant
 
+## <span style="color:dodgerblue">Education
+
+<span style="color:#002147">**University of Oxford -October 2018 – September 2019 – MSc Psychological Research**
+
+Final grade: Merit 
+
+<span style="color:#002147">**Bangor University - September 2015 – June 2018 – BSc Psychology with Neuropsychology**
+
+Final grade: First Class Honours 
+
+Achievements: 
+
+-	Rank 1 (top of year) student in 2016/17 – Awarded the Tim Miles Prize for Best Overall Second Year Psychology Student
+
+- Highly ranked all three years of my BSc, including rank 1 semester 1 of final year
+
+- Awarded the final year Kevin Larkin Prize for School Citizenship for the most Outstanding Contribution to Psychology Student Life
+
+- Awarded Head and Senior Peer guide positions
+
+
 ## <span style="color:dodgerblue">Research Experience
 
 <span style="color:#002147">**July 2019 – July 2020 – Research Assistant**
@@ -15,6 +36,8 @@ Supervising team (no order): Prof. Nele Demeyere, Prof. Jason Mattingly, Prof. M
 
 
 The project is an international collaboration on EEG markers of visual attention, teasing apart motor, attention, arousal, and sensory issues related to vision. The study runs in 3 sites, Melbourne, Dublin and Oxford, and I am solely responsible for all aspects of patient recruitment, data recording, and data curation at Oxford.
+
+<img src="EEGdemonstration.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
 
 
 <span style="color:#002147">**October 2018 – September 2019 – MSc Research Project; Translational Neuropsychology**
