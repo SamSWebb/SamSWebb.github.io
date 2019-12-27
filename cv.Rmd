@@ -37,8 +37,11 @@ Supervising team (no order): Prof. Nele Demeyere, Prof. Jason Mattingly, Prof. M
 
 The project is an international collaboration on EEG markers of visual attention, teasing apart motor, attention, arousal, and sensory issues related to vision. The study runs in 3 sites, Melbourne, Dublin and Oxford, and I am solely responsible for all aspects of patient recruitment, data recording, and data curation at Oxford.
 
-<img src="EEGdemonstration.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+<span style="color:#002147">**November 2019 – September 2020 – Research Assistant**
 
+Supervisor: Prof. Nele Demeyere.
+
+I am responsible for data analysis and report writing on an ongoing mental capacity assessment audit of local NHS hospital wards. Further I am project coordinator on two projects involving validation and assessment of a new computerised mental capacity assessment tool.
 
 <span style="color:#002147">**October 2018 – September 2019 – MSc Research Project; Translational Neuropsychology**
 
@@ -93,5 +96,9 @@ I learned how to conduct experiments whilst also solidifying my knowledge of the
 
 - **NHS Good Clinical Practice: Research Integrity training**: 95% - Certificate available
 
+# Empirical Articles
+Demeyere, N., Haupt, M., Webb, S. S., Strobel L., Milosevich, E., Moore, M. J., Wright, H., Finke, K., & Mihaela Duta. (Pre-print). The OCS - Plus: validation of a tablet based short cognitive screening tool for mild cognitive impairment. Latest draft retrieved (December 17, 2019) from osf.io/cfmwk
 
+Webb, S. S., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). Validation of the Oxford COMPetency ASSessment (COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria.
 
+Webb, S. S., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). The Oxford Digital Multiple Errands Test: A Simplified Tablet-Based Assessment of Multitasking.
