@@ -3,23 +3,29 @@ title: "Conferences"
 ---
 
 
-## <span style="color:dodgerblue">Poster content and location
-
-<span style="color:purple">*MSc Multiverse Analysis*  -- July 2019
-
-- Department of Experimental Psychology, Uni. of Oxford
+## <span style="color:dodgerblue">**Poster content and location**
 
 <span style="color:purple">*Oxford Digital Multiple Errands Test* -- April 2019
 
-- British Neuropsychology Society (BNS) 
+- British Neuropsychology Society (BNS): see it [here](https://osf.io/2c46u?show=view&view_only=)
 
-<span style="color:purple">*Validation of Executive Tests* -- October 2019
+<span style="color:purple">*The Oxford Cognitive Screen - Plus (OCS-Plus)*
 
-- Organisation for Psychological Research into Stroke (OPSYRIS) 
-
-<span style="color:purple">*The COMPASS tool*
+- UK Stroke Forum - December 2019: see it [here](https://osf.io/3kugq?show=view&view_only=)
 
 
-- Federation of the European Societies of Neuropsychology (FESN) -- September 2019
+<span style="color:purple">*The Oxford Competency Assessment (COMPASS)*
 
-- UK Stroke Forum - December 2019
+- Federation of the European Societies of Neuropsychology (FESN) -- September 2019: see it [here](https://osf.io/n83ad?show=view&view_only=)
+
+- UK Stroke Forum - December 2019: see it [here](https://osf.io/t9p4s?show=view&view_only=)
+
+<span style="color:purple">*MSc Dissertation*  -- July 2019
+
+- Department of Experimental Psychology, Uni. of Oxford: see it [here](https://osf.io/k5nmw?show=view&view_only=)
+
+
+<span style="color:purple">*Multiverse Analysis of Validation of Executive Functioning Tests* -- October 2019
+
+- Organisation for Psychological Research into Stroke (OPSYRIS): see it [here](https://osf.io/k5nmw?show=view&view_only=)
+
