@@ -2,46 +2,16 @@
 title: "Projects"
 ---
 
-Here you can find my current (open access) projects - some are completed and some are the works, both signified.
+Here you can find my current projects which are open access:
 
-## <span style="color:black">Registered Reports:
-
-### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
-* Started March 2020 (delayed data collection due to COVID-19).
-* The project seeks to replicate the  pre-attentive  semantic  processing  effect  first  documented  by  [Marshall  and  Halligan (1988)](https://www.nature.com/articles/336766a0)  under  more  stringent  experimental  conditions,  and  in  a  broad,  representative  sample while  investigating  whether  semantic  or  merely  physical  stimuli  differences  are  responsible for  modulating  the  occurrence  of pre-attentiveprocessing  in  neglect  patient
-* Project is estimated to take 18 months from beginning of data collection
+## <span style="color:black">**Completed**:
 
 
-## <span style="color:black">In progress:
-
-### <span style="color:grey90">The Oxford Digital Multiple Errands Test (OxMET): Validation of a Simplified Computer Tablet Based Multiple Errands Test
+### <span style="color:grey90">[The Oxford Digital Multiple Errands Test (OxMET): Validation of a Simplified Computer Tablet Based Multiple Errands Test](https://osf.io/8sut5/)
 
 * This project establishes the normative scoring for a new computer-tablet version of the widely used Multiple Errands Test [(Shallice and Burgess, 1991)](https://www.researchgate.net/publication/21111959_Deficits_in_strategy_application_following_frontal_lobe_damage_in_man) 
-* We normed the OxMET in 124 neurologically healthy adults and compared this to 105 unselected stroke survivors.
-* Pre-print coming soon (June, 2020)
-
-
-### <span style="color:grey90">Multiverse analysis of three tests of executive function:  an exploration of researcher’s choice in validating executive tests
-
-* This project builds off my MSc work at the university of Oxford and explores how we can use multiverse to highlight validation outcome fragility (whether we find significant validation comaprisons or not) in validation studies using executive functioning tests
-* This project uses data from the OxMET normative project and OCS-Plus project.
-
-### <span style="color:grey90">Automated Scoring of the OCS-Plus Computer-Tablet Figure Copy Test - validation 
-
-* This project reports the automated computer scoring algorithm that is able to score the [OCS-Plus](https://psyarxiv.com/b2vgc/) Figure Copy task with 99% sensitivity to elements scored by two trained human raters
-* I will update when the pre-print is ready
-
-
-### <span style="color:grey90">The Oxford COMPetency ASSessment[(COMPASS)](http://www.demeyerelab.org/?page_id=469): A Brief Supplemental Cognitive
-Assessment Aligned with Mental Capacity Criteria
-
-* This project validates a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents). 
-* The OxMET task is within the COMPASS but has a separate paper due to the standalone ability of the OxMET to assess cognition. The tasks included in the COMPASS assess comprehension, retention, and weighing up.
-* Pre-print will be out in 2020
-
-
-
-## <span style="color:black">Completed:
+* We normed the OxMET in 124 neurologically healthy adults and compared this to 105 unselected stroke survivors and validated it in a mixed cohort of 158.
+* Pre-print is out [here](https://psyarxiv.com/5eh7x/), submitted for publication.
 
 
 ### <span style="color:grey90"> [The Oxford Cognitive Screen – Plus (OCS-Plus): A digital, tablet-based, brief cognitive assessment](http://www.demeyerelab.org/?page_id=434) 
@@ -50,8 +20,6 @@ Assessment Aligned with Mental Capacity Criteria
 * We present the Oxford Cognitive Screen-Plus, a computerised tablet-based screen designed to briefly assess domain-general cognition and provide more fine-grained measures of memory and executive function. The OCS-Plus was designed to sensitively screen for cognitive impairments and provide a differentiation between memory and executive deficits. 
 * See our latest pre-print with healhty ageing normative data available on [PsyArxiv](https://psyarxiv.com/b2vgc/)
 * As a lab we are also assessing the sensitivity and specifity of the task to MCI and dementia and preliminary results are hopeful
-
-
 
 ### [MSc Dissertation](https://osf.io/cktj9/)
 
@@ -66,3 +34,33 @@ Assessment Aligned with Mental Capacity Criteria
 
 * This was an essay I wrote in 2017 for my second year of my undergraduate when I just got into Open science. I uploaded this more as a personal joke as I had no idea about open science at that point and had only just stumbled into the state of psychology (i.e., it is on fire).
 
+
+
+
+## <span style="color:black">**Registered Reports**:
+
+### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
+* Started March 2020 (delayed data collection due to COVID-19).
+* The project seeks to replicate the  pre-attentive  semantic  processing  effect  first  documented  by  [Marshall  and  Halligan (1988)](https://www.nature.com/articles/336766a0)  under  more  stringent  experimental  conditions,  and  in  a  broad,  representative  sample while  investigating  whether  semantic  or  merely  physical  stimuli  differences  are  responsible for  modulating  the  occurrence  of pre-attentiveprocessing  in  neglect  patient
+* Project is estimated to take 18 months from beginning of data collection
+
+
+## <span style="color:black">**In progress**:
+
+### <span style="color:grey90">Multiverse analysis of three tests of executive function:  an exploration of researcher’s choice in validating executive tests
+
+* This project builds off my MSc work at the university of Oxford and explores how we can use multiverse to highlight validation outcome fragility (whether we find significant validation comaprisons or not) in validation studies using executive functioning tests
+* This project uses data from the OxMET normative project and OCS-Plus project.
+
+
+### <span style="color:grey90">Automated Scoring of the OCS-Plus Computer-Tablet Figure Copy Test - validation 
+
+* This project reports the automated computer scoring algorithm that is able to score the [OCS-Plus](https://psyarxiv.com/b2vgc/) Figure Copy task with 99% sensitivity to elements scored by two trained human raters
+* I will update when the pre-print is ready
+
+
+### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
+
+* This project validates a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents). 
+* The OxMET task is within the COMPASS but has a separate paper due to the standalone ability of the OxMET to assess cognition. The tasks included in the COMPASS assess comprehension, retention, and weighing up.
+* Pre-print will be out in 2020
