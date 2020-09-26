@@ -3,9 +3,12 @@ title: "CV"
 ---
 
 
-__Current Occupation:__ Research Assistant
+__Current Occupation:__ DPhil Candidate and Research Assistant
 
-## <span style="color:dodgerblue">Education
+## <span style="color:dodgerblue">**Education**
+
+<span style="color:#002147">**University of Oxford -October 2020 – DPhil Experimental Psychology**
+
 
 <span style="color:#002147">**University of Oxford -October 2018 – September 2019 – MSc Psychological Research**
 
@@ -26,9 +29,9 @@ Achievements:
 - Awarded Head and Senior Peer guide positions
 
 
-## <span style="color:dodgerblue">Research Experience
+## <span style="color:dodgerblue">**Research Experience**
 
-<span style="color:#002147">**July 2019 – July 2020 – Research Assistant**
+<span style="color:#002147">**July 2019 – January 2021 – Research Assistant**
 
 *“Visual Attention After Stroke”*
 
@@ -37,7 +40,7 @@ Supervising team (no order): Prof. Nele Demeyere, Prof. Jason Mattingly, Prof. M
 
 The project is an international collaboration on EEG markers of visual attention, teasing apart motor, attention, arousal, and sensory issues related to vision. The study runs in 3 sites, Melbourne, Dublin and Oxford, and I am solely responsible for all aspects of patient recruitment, data recording, and data curation at Oxford.
 
-<span style="color:#002147">**November 2019 – September 2020 – Research Assistant**
+<span style="color:#002147">**November 2019 – January 2021 – Research Assistant**
 
 Supervisor: Prof. Nele Demeyere.
 
@@ -85,20 +88,16 @@ I learned how to conduct experiments whilst also solidifying my knowledge of the
 
 
 
+## <span style="color:dodgerblue">**Education**
 
-# Certifications
+Demeyere, N., Haupt, M., **Webb, S. S**., Strobel L., Milosevich, E., Moore, M. J., Wright, H., Finke, K., & Mihaela Duta. (Pre-print). The OCS - Plus: validation of a tablet based short cognitive screening tool for mild cognitive impairment. PsyArXiv preprint [here](https://psyarxiv.com/b2vgc/)
 
-- **R**: Proficient for data cleaning, manipulation, analysis, and reporting.
+**Webb, S. S**., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (Pre-print). The Oxford Digital Multiple Errands Test: A Simplified Tablet-Based Assessment of Multitasking. PsyArXiv preprint [here](https://psyarxiv.com/5eh7x/)
 
-- **MATLAB**: Proficient for data collection, cleaning and manipulation
+**Webb, S. S**., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). Validation of the Oxford COMPetency ASSessment (COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria.
 
-- **Inferential Statistics 7-week course, by Dr Daniël Lakens**: 88.30 % - October 2018
+*Joint first authorship
 
-- **NHS Good Clinical Practice: Research Integrity training**: 95% - Certificate available
+**Webb, S. S**., Moore, M. J, Yamshchikova, A., Kozik, V., Duta, D. M., Voiculescu, I., & Demeyere, N. (In preparation). Automated Scoring of Drawings from a Tablet-Based Complex Figure Copy task. 
 
-# Empirical Articles
-Demeyere, N., Haupt, M., Webb, S. S., Strobel L., Milosevich, E., Moore, M. J., Wright, H., Finke, K., & Mihaela Duta. (Pre-print). The OCS - Plus: validation of a tablet based short cognitive screening tool for mild cognitive impairment. Latest draft retrieved (December 17, 2019) from osf.io/cfmwk
 
-Webb, S. S., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). Validation of the Oxford COMPetency ASSessment (COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria.
-
-Webb, S. S., Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). The Oxford Digital Multiple Errands Test: A Simplified Tablet-Based Assessment of Multitasking.
