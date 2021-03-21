@@ -2,30 +2,28 @@
 title: "Conferences"
 ---
 
-
 ## <span style="color:dodgerblue">**Poster content and location**
 
-<span style="color:purple">*Oxford Digital Multiple Errands Test* -- April 2019
+<span style="color:purple">*Automated scoring of the OCS-Plus Figure Copy task* -- December 2020
 
-- British Neuropsychology Society (BNS): see it [here](https://osf.io/2c46u?show=view&view_only=)
+-   UK Stroke Forum - December 2020: see it [here](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2F7uagh%2Fdownload)
 
-<span style="color:purple">*The Oxford Cognitive Screen - Plus (OCS-Plus)*
+<span style="color:purple">*The Oxford Cognitive Screen - Plus (OCS-Plus)* -- December 2019
 
-- UK Stroke Forum - December 2019: see it [here](https://osf.io/3kugq?show=view&view_only=)
-
-
-<span style="color:purple">*The Oxford Competency Assessment (COMPASS)*
-
-- Federation of the European Societies of Neuropsychology (FESN) -- September 2019: see it [here](https://osf.io/n83ad?show=view&view_only=)
-
-- UK Stroke Forum - December 2019: see it [here](https://osf.io/t9p4s?show=view&view_only=)
-
-<span style="color:purple">*MSc Dissertation*  -- July 2019
-
-- Department of Experimental Psychology, Uni. of Oxford: see it [here](https://osf.io/k5nmw?show=view&view_only=)
-
+-   UK Stroke Forum - December 2019: see it [here](https://osf.io/3kugq?show=view&view_only=)
 
 <span style="color:purple">*Multiverse Analysis of Validation of Executive Functioning Tests* -- October 2019
 
-- Organisation for Psychological Research into Stroke (OPSYRIS): see it [here](https://osf.io/k5nmw?show=view&view_only=)
+-   Organisation for Psychological Research into Stroke (OPSYRIS): see it [here](https://osf.io/k5nmw?show=view&view_only=)
 
+<span style="color:purple">*The Oxford Competency Assessment (COMPASS)* -- September 2019
+
+-   Federation of the European Societies of Neuropsychology (FESN) - September 2019: see it [here](https://osf.io/n83ad?show=view&view_only=)
+
+<span style="color:purple">*MSc Dissertation* -- July 2019
+
+-   Department of Experimental Psychology, Uni. of Oxford: see it [here](https://osf.io/k5nmw?show=view&view_only=)
+
+<span style="color:purple">*Oxford Digital Multiple Errands Test* -- April 2019
+
+-   British Neuropsychology Society (BNS): see it [here](https://osf.io/2c46u?show=view&view_only=)
