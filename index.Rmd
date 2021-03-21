@@ -5,7 +5,7 @@ subtitle: "Current DPhil candidate"
 
 [I try to conduct my research following an open science framework]{style="color:dodgerblue"}
 
-![](meeeee.jpeg)
+![](meeeee.jpeg){width="70%"}
 
 This website, hosted through Github and created in RMarkdown, is a repository for all information, publications, posters, and posts related to my academic work.
 
