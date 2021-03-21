@@ -18,15 +18,15 @@ Here you can find my current projects which are all open access. Hyperlinks take
 
 ### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
 
--   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentiveprocessing in neglect patients.
+-   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.
 
 ## <span style="color:black">**Preprints:**
 
 ### <span style="color:grey90"> [Introducing the tablet-based Oxford Cognitive Screen-Plus (OCS-Plus) as an assessment tool for subtle cognitive impairments.](https://osf.io/cfmwk/)
 
 -   We present the Oxford Cognitive Screen-Plus, a computerised tablet-based screen designed to briefly assess domain-general cognition and provide more fine-grained measures of memory and executive function. The OCS-Plus was designed to sensitively screen for cognitive impairments and provide a differentiation between memory and executive deficits, and is an extension of the [Oxford Cognitive Screen](https://www.ocs-test.org/).
--   See our latest pre-print with healthy aging normative data available on [PsyArxiv](https://psyarxiv.com/b2vgc/)
--   
+
+-   See our latest pre-print with healthy aging normative data available on [PsyArxiv](https://psyarxiv.com/b2vgc/), under revision.
 
 ### <span style="color:grey90">[Automated Scoring of the OCS-Plus Computer-Tablet Figure Copy Test - validation](https://osf.io/3k6gs/)
 
@@ -38,8 +38,6 @@ Here you can find my current projects which are all open access. Hyperlinks take
 -   The project investigated the impacts of the pandemic on rates of cognitive assessments and established whether there was an overall shift to teleneuropsychology.
 
 -   Pre-print is available on [PsyArxiv](https://psyarxiv.com/zx6va/), under revision.
-
--   
 
 ## <span style="color:black">**Completed works**
 
@@ -78,6 +76,7 @@ Here you can find my current projects which are all open access. Hyperlinks take
 ### <span style="color:grey90">Relation of the OxMET to instrumental activities of daily living 6- and 12-months post-stroke
 
 -   This will look longitudinally at the OxMET to establish whether performance on the OxMET in the sub-acute phase of recovery will predict performance on instrumental activities of daily living 6- and 12-months post-stroke.
+-   Status: Under active recruitment
 
 ### <span style="color:grey90">Further validation of the Oxford Cognitive Screen-Plus in Sub-Acute Stroke Rehabilitation Setting
 
@@ -87,8 +86,10 @@ Here you can find my current projects which are all open access. Hyperlinks take
 
 -   Moreover completing the validation in a sub-acute stroke sample brings greater variance to the data with less floor and ceiling effects expected, leading to greater power in our analyses.
 
+-   Status: Under active recruitment
+
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
 -   This project validates a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents).
 -   The OxMET task is within the COMPASS but has a separate paper due to the standalone ability of the OxMET to assess cognition. The tasks included in the COMPASS assess comprehension, retention, and weighing up.
--   Pre-print will be out in 2020
+-   Pre-print will be out in 2021
