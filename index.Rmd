@@ -1,5 +1,5 @@
 ---
-title: "Sam S. Webb, Msc"
+title: "Sam S. Webb, Msc (he/him)"
 subtitle: "Current DPhil candidate"
 ---
 
