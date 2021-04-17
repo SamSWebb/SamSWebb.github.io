@@ -1,0 +1,7 @@
+---
+title: "Publications"
+subtitle: Repository for Publications
+---
+
+**Introducing the tablet-based Oxford Cognitive Screen-Plus (OCS-Plus) as an assessment tool for subtle cognitive impairments**
+<embed src="https://samswebb.github.io/introOCS-Plus.pdf" width="100%" height="850px"/>
