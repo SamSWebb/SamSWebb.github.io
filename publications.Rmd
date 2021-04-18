@@ -1,7 +1,28 @@
 ---
-title: "Publications"
-subtitle: Repository for Publications
+title: "Personal Repository for Publications"
 ---
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
-**Introducing the tablet-based Oxford Cognitive Screen-Plus (OCS-Plus) as an assessment tool for subtle cognitive impairments**
-<embed src="https://samswebb.github.io/introOCS-Plus.pdf" width="100%" height="850px"/>
+# **2021**
+
+<div style= "float:left;position: relative; bottom:">
+[![](pdfsymbol2.png){width="20%"}](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/OxMETPsychometric.pdf)
+</div>
+**Sam S. Webb**, Anders Jespersen, Evangeline G. Chiu, Francesca Payne, Romina Basting, Mihaela D. Duta & Nele Demeyere (2021) The Oxford digital multiple errands test (OxMET): Validation of a simplified computer tablet based multiple errands test, *Neuropsychological Rehabilitation*, 
+[DOI: 10.1080/09602011.2020.1862679](https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1862679)
+
+
+<div style= "float:left;position: relative; bottom:">
+[![](pdfsymbol2.png){width="20%"}](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/IntroOCS-Plus.pdf)
+</div>
+Demeyere, N., Haupt, M., **Webb, S.S**. et al. Introducing the tablet-based Oxford Cognitive Screen-Plus (OCS-Plus) as an assessment tool for subtle cognitive impairments. *Scientific Reports*, 11, 8000 (2021). [DOI: 10.1038/s41598-021-87287-8](https://www.nature.com/articles/s41598-021-87287-8)
+
+
+
+
