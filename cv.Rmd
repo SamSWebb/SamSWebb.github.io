@@ -86,12 +86,7 @@ I started off with a voluntary shadowing opportunity in Dr Paul Mullins' lab I l
 
 ## <span style="color:dodgerblue">**Research Output**
 
-**Webb, S. S.,** Jespersen, A., Chiu, E. G., Payne, F., Basting, R., Duta, M. D., & Demeyere, N. (2021). The Oxford digital multiple errands test (OxMET): Validation of a simplified computer tablet based multiple errands test. Neuropsychological Rehabilitation, 1-26. <https://doi.org/10.1080/09602011.2020.1862679>
+[Published](https://samswebb.github.io/publications.html)
 
-Demeyere, N., Haupt, M., **Webb, S. S.,** Strobel, L., Milosevich, E., Moore, M., Duta, M. (In press). Introducing the tablet-based Oxford Cognitive Screen-Plus (OCS-Plus) as an assessment tool for subtle cognitive impairments. <https://doi.org/10.31234/osf.io/b2vgc>
 
-**Webb, S. S.,** Moore, M., Yamshchikova, A., Kozik, V., Duta, M., Voiculescu, I., & Demeyere, N. (pre-print, 2020, November 18). Automated Scoring of Drawings from a Tablet-Based Complex Figure Copy Task. <https://doi.org/10.31234/osf.io/sfzjc>
-
-**Webb, S. S.,** Kontou, E., & Demeyere, N. (pre-print, 2020, December 18). Investigating the Impacts of COVID-19 Pandemic on Assessment of Cognition: a Web-based Questionnaire Study. <https://doi.org/10.31234/osf.io/zx6va>
-
-**Webb, S. S.,** Jespersen, A., Chiu, G., Payne, F., Basting, R., Mihaela, D., Demeyere, N. (In preparation). Validation of the Oxford COMPetency ASSessment (COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria.
+[In progress / pre-printed / registered reports](https://samswebb.github.io/projects.html)
