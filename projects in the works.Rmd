@@ -1,0 +1,83 @@
+---
+title: "Projects in the Works"
+---
+
+Here you can find my current projects which are all open access. Hyperlinks take you direct to pre-prints, publications, and data repositories.
+
+![](Project%20collage.png){width="100%"} 
+
+## <span style="color:black">**Pending publications**
+
+### <span style="color:grey90">[Automated Scoring of the OCS-Plus Computer-Tablet Figure Copy Test - validation](https://osf.io/3k6gs/)
+
+-   This project introduces and validates a novel automated scoring programme written in python which is able to reliably and accurately score the Figure Copy test from the [OCS-Plus](https://psyarxiv.com/b2vgc/) with extremely high sensitivity to elements and total scores when compared to two trained human raters
+-   Pre-print is available [here](https://psyarxiv.com/sfzjc/), accepted - awaiting proofs.
+
+## <span style="color:black">**Stage 1 Accepted Registered Reports:**
+
+### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
+
+-   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.
+
+## <span style="color:black">**Preprints:**
+
+### <span style="color:grey90">[Investigating the Impacts of COVID-19 Pandemic on Assessment of Cognition: a Web-based Questionnaire Study](https://osf.io/uv8jr/)
+
+-   The project investigated the impacts of the pandemic on rates of cognitive assessments and established whether there was an overall shift to teleneuropsychology.
+
+-   Pre-print is available on [PsyArxiv](https://psyarxiv.com/zx6va/), under revision.
+
+## <span style="color:black">**Completed works**
+
+### <span style="color:grey90">[Multiverse Analysis: A Method to Determine Researcher Degrees of Freedom in Test Validation](https://osf.io/cktj9/)
+
+-   This project builds off my MSc work at the university of Oxford and explores how we can use multiverse to highlight validation outcome fragility (whether we find significant validation comparisons or not) in validation studies using executive functioning tests
+-   This project uses data from the OxMET normative project and OCS-Plus project.
+-   The manuscript is written and awaiting review from co-authors
+
+### [MSc Dissertation](https://osf.io/cktj9/)
+
+-   This forms the storage for my MSc work
+
+-   Including
+
+    -   Final anonymised data (both controls and patients data)
+    -   Analysis script to reproduce my analysis
+    -   Original pre-registration and files explaining changes along the research pipeline
+
+### [Essay on alternative facts in psychology](https://osf.io/5wmkr/)
+
+-   This was an essay I wrote in 2017 for my second year of my undergraduate when I just got into Open science. I uploaded this more as a personal joke as I had no idea about open science at that point and had only just stumbled into the state of psychology (i.e., it is on fire).
+
+## 
+
+## <span style="color:black">**Ongoing Projects 2021:**
+
+### <span style="color:grey90">Relation of the OxMET to measures of functional ability in a stroke rehabilitation setting
+
+-   This is my main PhD project, where I am collecting data in a sub-acute stroke rehabilitation setting. The data include the OxMET as well as the Barthel Index and the Therapy Outcomes Measure.
+
+-   This is not pre-registered, though I have immortalized my predictions in a grant proposal, and I predict the OxMET will relate to measures of function, but will more strongly relate to measures of instrumental activities of daily living post-rehabilitation.
+
+-   Status: Under active recruitment
+
+### <span style="color:grey90">Relation of the OxMET to instrumental activities of daily living 6- and 12-months post-stroke
+
+-   This will look longitudinally at the OxMET to establish whether performance on the OxMET in the sub-acute phase of recovery will predict performance on instrumental activities of daily living 6- and 12-months post-stroke.
+-   Status: Under active recruitment
+
+### <span style="color:grey90">Further validation of the Oxford Cognitive Screen-Plus in Sub-Acute Stroke Rehabilitation Setting
+
+-   This projects aims to provide further construct validity for the OCS-Plus by comparing construct-matched tests to each test from the OCS-Plus.
+
+-   We are using different tests to the original normative validation due to improvements in matching test constructs
+
+-   Moreover completing the validation in a sub-acute stroke sample brings greater variance to the data with less floor and ceiling effects expected, leading to greater power in our analyses.
+
+-   Status: Under active recruitment
+
+### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
+
+-   This project validates a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents).
+-   The OxMET task is within the COMPASS but has a separate paper due to the standalone ability of the OxMET to assess cognition. The tasks included in the COMPASS assess comprehension, retention, and weighing up.
+-   Pre-print will be out in 2021
