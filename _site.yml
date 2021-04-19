@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Projects in the Works"
-      href: projects-in-the-works.html
+      href: projects.html
     - text: "Publications"
       href: publications.html
     - text: "Conferences"
