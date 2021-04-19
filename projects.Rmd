@@ -1,5 +1,5 @@
 ---
-title: "Projects in the Works"
+title: "Projects"
 ---
 
 Here you can find my current projects which are all open access. Hyperlinks take you direct to pre-prints, publications, and data repositories.
