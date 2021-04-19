@@ -1,4 +1,4 @@
-rname: "SamSWebb.github.io"
+name: "SamSWebb.github.io"
 output_dir: "."
 navbar:
   title: "Sam S. Webb"
@@ -24,3 +24,4 @@ output:
   html_document:
     theme: cosmo
     css: style.css
+
