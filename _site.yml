@@ -16,12 +16,7 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/Saffello96
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/sam-webb-232143158/
 output:
   html_document:
     theme: cosmo
     css: style.css
-
