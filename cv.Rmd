@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-**Current Occupation:** DPhil Candidate and Research Assistant
+**Current Occupation:** DPhil Candidate
 
 PDF CV available [here](https://osf.io/js5ck?show=view&view_only=)
 
@@ -34,7 +34,7 @@ Achievements:
 
 Supervising team: Dr Kathleen Vancleef. Validation of the Oxford Visual Perception Screen.
 
-<span style="color:#002147">**July 2019 -- January 2023 -- Research Assistant**
+<span style="color:#002147">**July 2019 -- July 2021 -- Research Assistant**
 
 *"Visual Attention After Stroke"*
 
