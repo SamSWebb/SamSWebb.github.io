@@ -10,7 +10,7 @@ title: "Personal Repository for Publications"
 </style>
 
 # **2021**
-**Webb, S.S.**, Moore, M., Yamshchikova, A., Kozik, V., Duta, M., Voiculescu, I., & Demeyere, N (2021) Validation of an Automated Scoring algorithm for a digital Complex Figure Copy Task within healthy ageing and stroke, *Neuropsychology*, DOI: 10.1037/neu0000748
+**Webb, S.S.**, Moore, M., Yamshchikova, A., Kozik, V., Duta, M., Voiculescu, I., & Demeyere, N (2021) Validation of an Automated Scoring Program for a digital Complex Figure Copy Task within healthy ageing and stroke, *Neuropsychology*, DOI: 10.1037/neu0000748
 
 <div style= "float:left;position: relative; bottom:">
 [![](pdfsymbol2.png){width="20%"}](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/CovidSurvey.pdf)
