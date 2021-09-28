@@ -10,11 +10,18 @@ title: "Personal Repository for Publications"
 </style>
 
 # **2021**
+**Webb, S.S.**, Moore, M., Yamshchikova, A., Kozik, V., Duta, M., Voiculescu, I., & Demeyere, N (2021) Validation of an Automated Scoring algorithm for a digital Complex Figure Copy Task within healthy ageing and stroke, *Neuropsychology*, DOI: 10.1037/neu0000748
+
+<div style= "float:left;position: relative; bottom:">
+[![](pdfsymbol2.png){width="20%"}](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/CovidSurvey.pdf)
+</div>
+**Sam S. Webb**, Eirini Kontou & Nele Demeyere (2021) The COVID-19 pandemic altered the modality, but not the frequency, of formal cognitive assessment, *Disability and Rehabilitation*, [DOI: 10.1080/09638288.2021.1963855](https://www.tandfonline.com/doi/full/10.1080/09638288.2021.1963855)
+
 
 <div style= "float:left;position: relative; bottom:">
 [![](pdfsymbol2.png){width="20%"}](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/OxMETPsychometrics.pdf)
 </div>
-**Sam S. Webb**, Anders Jespersen, Evangeline G. Chiu, Francesca Payne, Romina Basting, Mihaela D. Duta & Nele Demeyere (2021) The Oxford digital multiple errands test (OxMET): Validation of a simplified computer tablet based multiple errands test, *Neuropsychological Rehabilitation*, 
+**Sam S. Webb**, Anders Jespersen, Evangeline G. Chiu, Francesca Payne, R=omina Basting, Mihaela D. Duta & Nele Demeyere (2021) The Oxford digital multiple errands test (OxMET): Validation of a simplified computer tablet based multiple errands test, *Neuropsychological Rehabilitation*, 
 [DOI: 10.1080/09602011.2020.1862679](https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1862679)
 
 

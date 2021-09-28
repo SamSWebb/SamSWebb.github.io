@@ -8,17 +8,7 @@ Here you can find my current projects which are all open access. Hyperlinks take
 
 ## <span style="color:black">**Pending publications**
 
-### <span style="color:grey90">[Automated Scoring of the OCS-Plus Computer-Tablet Figure Copy Test - validation](https://osf.io/3k6gs/)
-
--   This project introduces and validates a novel automated scoring programme written in python which is able to reliably and accurately score the Figure Copy test from the [OCS-Plus](https://psyarxiv.com/b2vgc/) with extremely high sensitivity to elements and total scores when compared to two trained human raters
--   Pre-print is available [here](https://psyarxiv.com/sfzjc/), accepted in *Neuropsychology*- awaiting proofs.
-
-
-### <span style="color:grey90">[The COVID-19 pandemic altered the modality, but not the frequency, of formal cognitive assessment: Standardised and reliable remote cognitive tests are urgently required](https://osf.io/uv8jr/)
-
--   The project investigated the impacts of the pandemic on rates of cognitive assessments and established whether there was an overall shift to teleneuropsychology.
-
--   Pre-print is available on [PsyArxiv](https://psyarxiv.com/zx6va/), accepted in *Disability and Rehabilitation* - awaiting proofs.
+nil.
 
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
