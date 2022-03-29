@@ -2,13 +2,17 @@
 title: "Projects"
 ---
 
-Here you can find my current projects which are all open access. Hyperlinks take you direct to pre-prints, publications, and data repositories.
+Here you can find my current projects, where I am leading author, all are open access, or otherwise stated. Hyperlinks take you direct to pre-prints, publications, and data repositories.
 
 ![](Project%20collage.png){width="100%"} 
 
 ## <span style="color:black">**Pending publications**
 
-nil.
+### <span style="color:grey90">Stroke Recovery During the COVID-19 Pandemic: A Position Paper on Recommendations for Rehabilitation
+
+Health care delivery shifted and adapted with the coronavirus disease 2019 (COVID-19) pandemic caused by the novel severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2). Stroke care has been negatively impacted across the care continuum and may be leading to poor community living outcomes in those who have survived a stroke during the ongoing pandemic. It is expected that the fallout from the pandemic will be great and may be particularly felt among people surviving stroke during this unprecedented time. The American Congress of Rehabilitation Medicine (ACRM) Stroke Interdisciplinary Special Interest Group (Stroke ISIG) Health and Wellness Task Force convened to (1) discuss international experiences in stroke care and rehabilitation and (2) review recently published literature on stroke care and outcomes during the pandemic. Based on the findings in the literature, the task force proposes recommendations and interdisciplinary approaches in health care delivery spanning across the care continuum and into the community to support and enhance stroke recovery outcomes during the pandemic.
+
+- Status: under review
 
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
@@ -20,9 +24,11 @@ nil.
 
 ### <span style="color:grey90">[Multiverse Analysis: A Method to Determine Researcher Degrees of Freedom in Test Validation](https://osf.io/cktj9/)
 
--   This project builds off my MSc work at the university of Oxford and explores how we can use multiverse to highlight validation outcome fragility (whether we find significant validation comparisons or not) in validation studies using executive functioning tests
--   This project uses data from the OxMET normative project and OCS-Plus project.
--   Pre-print available on [PsyArxiv](https://psyarxiv.com/nhrwq/) - under revision
+In psychometric validation there are a near limitless number of different approaches researchers can decide to take when choosing sample type and size, test metrics, and covariate measures. It is particularly important to factor in these different analytical pathways when validating tools intended for use in clinical populations. Here, we aimed to provide a tutorial paper showcasing the multiverse, or specification curve, technique to establish the robustness of analytical pathways on psychometric validation outcomes in an example test of executive function. We examined the impact of choices regarding sample groups, sample sizes, different types of metrics from a given test, covariate inclusions, and outlier removal on convergent validation correlations between new tests of executive function. Data were available for 88 neurologically healthy adults and 117 stroke survivors, a total of 6,660 different analyses were run. We found that the type of sample group and sample size used for analyses impacted validation outcomes. Comparing test metrics within-category (e.g.accuracy vs accuracy) rather than between-category (e.g., accuracy vs time) significantly increased the observed correlation coefficients. Covariate inclusion and outlier removal choices did not impact the observed coefficients in our analyses. This tutorial paper showcases how authors can use the multiverse technique to evidence the robustness, or fragility, of their validation outcomes across many different analytical pathways. The example here highlights the importance of fully justifying and considering the analytical pathway to take in validation work on clinically relevant tools.
+
+-   Pre-print available on [PsyArxiv](https://psyarxiv.com/nhrwq/)
+
+- Status: under revision
 
 
 ## <span style="color:black">**Ongoing Projects 2021-:**
@@ -48,9 +54,11 @@ The OCS-Plus is a valid cognitive screening tool for use in stroke. OCS-Plus is 
 
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
--   This project validates a tool intended as a brief supplementary assessment of someones cognition related to the ability to make decisions as defined in [law](http://www.legislation.gov.uk/ukpga/2005/9/contents).
--   The OxMET task is within the COMPASS but has a separate paper due to the standalone ability of the OxMET to assess cognition. The tasks included in the COMPASS assess comprehension, retention, and weighing up.
-- in analysis phase.
+Assessment of mental capacity is a critical aspect of clinical practice. Mental capacity is a legal concept defined in statute by the Mental Capacity Act 2005 (England and Wales). Current best practice consists of a qualitative interview to elucidate the ability to (i) understand, (ii) retain and (iii) weigh up the specific information at hand, and to (iv) communicate a decision. Capacity assessments often fail to align with the legal standards and are often contentious with low agreement rates. We developed and validated a new brief neuropsychological screening tool (The Oxford Competency Assessment; COMPASS) to assess the cognitive constructs aligned to the core abilities required for mental capacity. 
+122 neurologically healthy participants were compared with 117 participants with neurological conditions (stroke or dementia/mild cognitive impairment) on COMPASS performance. The validation included 56 control participants and 69 neurological participants who completed additional neuropsychological tasks including the MoCA. 29 participants were re-tested. 80 participants were compared against a mental capacity assessment on setting up a hypothetical Lasting Power of Attorney.
+We found great reliability of the COMPASS, convergent validity analysis revealed low but significant correlations, and divergent validation was achieved. The COMPASS total score was similar to the MoCA in identifying impairment in mental capacity assessments, but neither were adequate to differentiate impairment in core abilities (i.e., understanding, retention, or weighing up)
+Further research comparing the COMPASS to capacity assessments with differing complexity is necessary, and to see whether the COMPASS increases interrater reliability in capacity assessments.
+- Status: In preparation
 
 
 ## <span style="color:black">**Unpublished / Unpre-printed works**
