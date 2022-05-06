@@ -8,12 +8,6 @@ Here you can find my current projects, where I am leading author, all are open a
 
 ## <span style="color:black">**Pending publications**
 
-### <span style="color:grey90">Stroke Recovery During the COVID-19 Pandemic: A Position Paper on Recommendations for Rehabilitation
-
-Health care delivery shifted and adapted with the coronavirus disease 2019 (COVID-19) pandemic caused by the novel severe acute respiratory syndrome (SARS) coronavirus 2 (CoV-2). Stroke care has been negatively impacted across the care continuum and may be leading to poor community living outcomes in those who have survived a stroke during the ongoing pandemic. It is expected that the fallout from the pandemic will be great and may be particularly felt among people surviving stroke during this unprecedented time. The American Congress of Rehabilitation Medicine (ACRM) Stroke Interdisciplinary Special Interest Group (Stroke ISIG) Health and Wellness Task Force convened to (1) discuss international experiences in stroke care and rehabilitation and (2) review recently published literature on stroke care and outcomes during the pandemic. Based on the findings in the literature, the task force proposes recommendations and interdisciplinary approaches in health care delivery spanning across the care continuum and into the community to support and enhance stroke recovery outcomes during the pandemic.
-
-- Status: under review
-
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
 ### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
