@@ -9,8 +9,8 @@ subtitle: "Current DPhil candidate"
 
 This website, hosted through Github and created in RMarkdown, is a repository for all information, publications, posters, and posts related to my academic work.
 
-On the whole, my focus is on executive dysfunction following brain injury (stroke) and how we measure dysfunction. I am particularly interested in clinical tool development, especially validation work, and neuropsychology.
+On the whole, my focus is on validation of stroke specific neuropsychological assessments, and ensuring that the assessments we use are meaningful to stroke survivors and clinicians.
 
-I am a current full-time DPhil (PhD) candidate at the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/) at University of Oxford, for the [Translational Neuropsychology Lab](https://www.psy.ox.ac.uk/research/translational-neuropsychology). I have been awarded a fully funded Postgraduate Fellowship through [The Stroke Association](https://www.stroke.org.uk). 
+I am a current full-time DPhil (PhD) candidate at the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/) at University of Oxford, for the [Translational Neuropsychology Lab](https://www.psy.ox.ac.uk/research/translational-neuropsychology). I have been awarded a fully funded Postgraduate Fellowship through [The Stroke Association](https://www.stroke.org.uk). As part of my research I attend the [Oxfordshire Stroke Rehabilitation Unit](https://www.oxfordhealth.nhs.uk/stroke-rehabilitation-unit-osru/) in Abingdon part-time. 
 
 I completed my MSc in [Psychological Research](https://www.ox.ac.uk/admissions/graduate/courses/msc-psychological-research?wssl=1) at the University of Oxford in England, and completed a BSc in [Psychology with Neuropsychology](https://www.bangor.ac.uk/courses/undergraduate/C801-Psychology-with-Neuropsychology) from Bangor University, in North Wales.

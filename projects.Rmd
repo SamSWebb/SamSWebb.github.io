@@ -16,14 +16,26 @@ Here you can find my current projects, where I am leading author, all are open a
 
 ## <span style="color:black">**Preprints:**
 
-### <span style="color:grey90">[Multiverse Analysis: A Method to Determine Researcher Degrees of Freedom in Test Validation](https://osf.io/cktj9/)
+### <span style="color:grey90">[Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices](https://osf.io/cktj9/)
 
-In psychometric validation there are a near limitless number of different approaches researchers can decide to take when choosing sample type and size, test metrics, and covariate measures. It is particularly important to factor in these different analytical pathways when validating tools intended for use in clinical populations. Here, we aimed to provide a tutorial paper showcasing the multiverse, or specification curve, technique to establish the robustness of analytical pathways on psychometric validation outcomes in an example test of executive function. We examined the impact of choices regarding sample groups, sample sizes, different types of metrics from a given test, covariate inclusions, and outlier removal on convergent validation correlations between new tests of executive function. Data were available for 88 neurologically healthy adults and 117 stroke survivors, a total of 6,660 different analyses were run. We found that the type of sample group and sample size used for analyses impacted validation outcomes. Comparing test metrics within-category (e.g.accuracy vs accuracy) rather than between-category (e.g., accuracy vs time) significantly increased the observed correlation coefficients. Covariate inclusion and outlier removal choices did not impact the observed coefficients in our analyses. This tutorial paper showcases how authors can use the multiverse technique to evidence the robustness, or fragility, of their validation outcomes across many different analytical pathways. The example here highlights the importance of fully justifying and considering the analytical pathway to take in validation work on clinically relevant tools.
+In neuropsychological research there are a near limitless number of different approaches researchers can choose when designing studies. Here we showcase the multiverse technique to establish the robustness of analytical pathways choices within classic psychometric test validation in an example test of executive function. 
+We examined the impact of choices regarding sample groups, sample sizes, test metrics, and covariate inclusions on convergent validation correlations between tests of executive function. Data were available for 87 neurologically healthy adults and 117 stroke survivors, and a total of 2,220 different analyses were run in a multiverse analysis. 
+We found that the type of sample group, sample size, and test metric used for analyses impacted validation outcomes. Covariate inclusion choices did not impact the observed coefficients in our analyses.  
+The present analysis demonstrates the importance of carefully justifying every aspect of a psychometric test validation study a priori with theoretical and statistical factors in mind. It is essential to thoroughly consider the purpose and use of a new tool when designing validation studies. 
 
 -   Pre-print available on [PsyArxiv](https://psyarxiv.com/nhrwq/)
 
-- Status: under revision
+- Status: preparing to submit for publication
 
+## <span style="color:black">**Ongoing Projects 2022-:**
+
+### <span style="color:grey90">The Oxford Cognitive Screen: Validation of a 20-minute remote version ##
+
+The recent upatake of teleneuropsychology is expanding the collection of clinicaly useful standardised and validated tools for remote administration. We pre-registered an evaluation of performance across face-to-face and remote (i.e., video or telephone conferencing) administrations of paper-based the Oxford Cognitive Screen (OCS) in community based stroke survivors.
+We used two recruitment streams from two longitudinal stroke cohorts (i.e., OCS-RECOVERY and OX-CHRONIC studies - see www.ocs-test.org) based in Oxfordshire, United Kingdom where participants were either approximately 6 months or 4 years post-stroke at assessment date. Participants were able to choose phone or video conferencing for administration of the OCS. Order of remote or face-to-face administration was counterbalanced. We used repeated measures t-tests and intraclass correlation coefficients to compare performance between modalities.
+31 stroke survivors were recruited; age M=70.29(SD=11.19); education M=13.84(SD=2.98), sex = 32.26% F, OCS-Recovery days since stroke M=211.29 (SD=48.67); OX-CHRONIC years since stroke M=5.44 (SD=2.1). All completed the OCS both in person and remotely on average M=40.87, (SD=54.43) days apart. We found that performance across both modalities were very similar and most of those who had domain impairments in one version had the same impairments in the other modality. There was, however, a general trend in number of domains impaired, to be more impaired on the remote version of the OCS. The OCS can be run both in person and remotely via the phone or video call, with specific tasks being sent ahead of time via post. 
+
+- Status: preparing to submit for publication / pre-print
 
 ## <span style="color:black">**Ongoing Projects 2021-:**
 
