@@ -4,6 +4,23 @@ title: "Conferences"
 
 ## <span style="color:dodgerblue">**Poster content and location**
 
+<span style="color:purple">*Cultural adaptation of the Oxford Digital Multiple Errands Test (OxMET) for an English speaking North American population* -- July 2022
+
+-   Rehabilitation Engineering and Assistive Technology Society of North America - July 2022: see it [here](https://osf.io/94ye8)
+
+<span style="color:purple">*Validation of the UK English Oxford Cognitive Screen-Plus (OCS-Plus) in Subacute and Chronic Stroke* -- July 2022
+
+-   International Neuropsychological Society - July 2022: see it [here](https://osf.io/73m6k)
+
+<span style="color:purple">*Associations Between the Oxford Digital Multiple Errands Test and Broad Functional Outcome Measures in Subacute Stroke* -- July 2022
+
+-   International Neuropsychological Society - July 2022: see it [here](https://osf.io/uvnb8)
+
+
+<span style="color:purple">*Ecological validity of the Oxford Digital Multiple Errands Test (OxMET) in subacute stroke: Associations with measures of functional ability* -- December 2021
+
+-   UK Stroke Forum - December 2021: see it [here](https://osf.io/rfcg7)
+
 <span style="color:purple">*Automated scoring of the OCS-Plus Figure Copy task* -- December 2020
 
 -   UK Stroke Forum - December 2020: see it [here](https://mfr.osf.io/render?url=https%3A%2F%2Fosf.io%2F7uagh%2Fdownload)
