@@ -33,17 +33,7 @@ In psychometric validation there are a near limitless number of different approa
 
 - Status: under revision
 
-### <span style="color:grey90">[Validation of the UK English Oxford Cognitive Screen-Plus in Sub-Acute and Chronic Stroke Survivors.](https://osf.io/t8zug/)
-
-Stroke survivors are routinely screened for cognitive impairment with tools that often fail to detect subtle impairments. The Oxford Cognitive Screen-Plus (OCS-Plus) is a brief tablet-based screen designed  to  detect  subtle  post-stroke  cognitive  impairments.  We  examined  its  psychometric properties  in  two  stroke  cohorts  (subacute:  <3  months  post-stroke,  chronic:  >6  months  post-stroke). This study included 347 stroke survivors(meanage = 73years; mean education = 13 years; 43.06% female  presenting;  74.42%  ischaemic  stroke). The OCS-Plus  was  completed  by  181sub-acute stroke  survivors  and  166  chronic  stroke  survivors. All  participants also completed  the  Oxford Cognitive Screen (OCS)and a subset completed the Montreal Cognitive Assessment (MoCA) and further neuropsychological tests. First,  convergent  construct  validity  of  all  OCS-Plus  tasks  against  task-matched  standardized neuropsychological tests was confirmed. Second, we evaluated divergent construct validity of all OCS-Plus subtasks. Third,  we  report  the  sensitivity  and  specificity  of  each  OCS-Plus subtask compared  to  neuropsychological  test  performance.  Fourth, we found  that OCS-Plus  detected cognitive impairments in a large proportion of those classed as unimpaired on MoCA and OCS. The OCS-Plus provides  a valid screening  tool for  sensitive  detection  of  subtle  cognitive impairment  in  stroke  patients. Indeed,  the  OCS-Plus  detected  subtle  cognitive  impairment  at  a similar  level  to  validated neuropsychological  assessments  and  exceeded  detection  of cognitive impairment compared to standard clinicals creening tools.
-
--   Pre-print available on [PsyArxiv](https://psyarxiv.com/y8we5/)
-
-- Status: under revision
-
-
-
-## <span style="color:black">**Ongoing Projects 2021-:**
+## <span style="color:black">**Ongoing Projects-:**
 
 ### <span style="color:grey90">Ecological and predictive validity of the Oxford Digital Multiple Errands Test (OxMET) in stroke ##
 
