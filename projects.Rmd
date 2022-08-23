@@ -7,15 +7,7 @@ Here you can find my current projects, where I am leading author, all are open a
 ![](Project%20collage.png){width="100%"} 
 
 ## <span style="color:black">**Pending publications**
-
-### <span style="color:grey90">The Oxford Cognitive Screen for use with Australian people after stroke (OCS-AU): The adaptation process, and determining cut scores for cognitive impairment using a cross-sectional normative study ##
-
-Two parallel versions (A and B) of the Oxford Cognitive Screen (OCS) were developed in the United Kingdom (UK) as a stroke-specific screen of five key cognitive domains commonly affected post-stroke. We aimed to develop the Australian versions A and B (OCS-AU), including Australian cut-scores indicative of impairment. We hypothesised there to be no difference in performance between the UK and Australian normative data cohorts.
-Our multidisciplinary expert panel used the UK predefined process to develop OCS-AU versions A and B. We then conducted a cross-sectional normative study. We purposively recruited: community-dwelling, Australian-born and educated adults; with no known cognitive impairment; representative of age, sex, education level, and living location; at seven sites (four metropolitan, three regional) across four Australian states. Participants completed one or both OCS-AU versions in a randomised order. Australian cohorts were compared to the corresponding UK cohorts for demographics using Pearson's Chi-squared test for sex and education, and Welch Two Sample t-test for age. For the cut-scores indicating cognitive impairment, the 5th (95th) percentiles, and group mean performance score for each scored item were compared using Welch Two Sample t-tests. The predefined criteria for retaining OCS cut-scores was no statistically-significant difference in either percentile or group mean scores for each scored item.
-Participants (n=83) were recruited: fifty-eight completed version A [age (years) mean=61,SD=15; 62% female], 60 completed version B [age(years) mean=62,SD=13, 53% female], and 35 completed both [age (years) mean=64,SD=11, 54% female]. Education was different between the cohorts for version B (12 years, p=0.002). Cut-scores for all 16 scored items for the OCS-AU version B and 15/16 for version A met our predefined criteria for retaining the OCS cut scores.
-The OCS-AU provides clinicians with an Australian-specific, first-line cognitive screening tool for people after stroke. Early screening can guide treatment and management.
-
-- Status: submitted for publication
+...
 
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
@@ -37,13 +29,13 @@ In psychometric validation there are a near limitless number of different approa
 
 ### <span style="color:grey90">Ecological and predictive validity of the Oxford Digital Multiple Errands Test (OxMET) in stroke ##
 
-The Oxford Digital Multiple Errands Test (OxMET) is a brief cognitive screen, intended as an ecologically valid approach to assessing complex executive function, in contrast to traditional abstract neuropsychological assessments with high language demands. Initial psychometric validation of the OxMET found high internal reliability and test-retest reliability, as well as good convergent and divergent validity. Here we assess aspects of predictive and ecological validity of the OxMET measures in relation to commonly used clinical function scales in a subacute stroke sample.
-Participants within 3 months of confirmed stroke were recruited from a UK English-speaking specialist stroke rehabilitation in-patient setting between 2020 and 2022. Each completed the OxMET with a researcher, whilst clinical outcome measures were collected from medical notes: Barthel Index and stroke the specific Therapy Outcome Measure scale.
-As of March 2022: Participants (n=333) were on average 24.94 days post stroke (SD=16.46), had a mean age of 73.8 (SD =13.05) and mean NIH Stroke Severity of 8.24 (SD= 5.32). We followed up a subset of 48 participants to complete activities of daily living and cognitive failures questionnaires to compare to baseline OxMET performance.
-At baseline we found a significant but small relationship between the OxMET accuracy Barthel Index (r=.22) but we did not find a relationship between functioning and more specialist OxMET metrics such as error types. At 6-month follow we found a moderate relationship between the OxMET accuracy metric and activities of daily living (R2=.31)
-The OxMET, an executive function assessment screen, was found to associate to specialist stroke relevant measures of functionality both in a rehabilitation context and community setting, but not beyond accuracy on the task. We note that the measures have a strong physical focus which may limit associations. The OxMET could be a useful and ecologically relevant tool in assessing executive function in those with limited physical or language abilities.
+The Oxford Digital Multiple Errands Test (OxMET) is a brief cognitive screen, intended as an ecologically valid approach to assessing complex executive function, in contrast to traditional abstract neuropsychological assessments with high language demands. Initial psychometric validation of the OxMET found high internal reliability and test-retest reliability, as well as good convergent and divergent validity. For my DPhil I am further investigating the ecological validity of the OxMET in three phases:  
 
--   Status: Under active recruitment
+1.    Assessing the relation of the OxMET to commonly used clinical function scales in a subacute stroke sample.
+Participants within 3 months of confirmed stroke are being recruited from a UK English-speaking specialist stroke rehabilitation in-patient setting. Each completes the OxMET with a researcher, whilst clinical outcome measures are collected from medical notes: Barthel Index, the Modified Rankin scale, and the stroke specific Therapy Outcome Measure scale.
+2.    Assessing whether OxMET, when administered in the rehab unit, predicts activities of daily living and/or subjective cognitive complains at a 6-month follow up from phase 1. Participants recruited in phase 1 are being followed up and administered the Cognitive Failures Questionnaire and ADL measures, as well as estimates of modified rankin scale. 
+3.    In phase 3, we are actively recruiting neurologically healthy controls and stroke survivors (at any time post-stroke) to complete the OxMET as well as the [MET-Home](www.met-home.com). We aim to compare the feasibility of administration of the OxMET and MET-Home in the community setting as well as correlate the OxMET and MET-Home together and further assess the relationship between ADLs in the community and OxMET performance. 
+
 
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
