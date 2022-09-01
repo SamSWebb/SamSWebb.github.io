@@ -9,7 +9,9 @@ title: "Personal Repository for Publications"
 }
 </style>
 # **2022**
-[PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/FinalOCS-AUPaper.pdf) $*$Sanctuary, C., $*$Hewitt, L., Demeyere, N., Kankkunen, K., Oxenham, V. D., Simpson, D. B., Stolwyk, R. J., Synn, A., **Webb, S.S.**, Marsden, D. L. (2022). The Oxford Cognitive Screen for use with Australian people after stroke (OCS-AU): The adaptation process, and determining cut scores for cognitive impairment using a cross-sectional normative study. *Australian Occupational Therapy Journal*. DOI pending.
+[PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/MultiverseExecFunctPaper.pdf) **Webb, S. S.**, & Demeyere, N. (2022). Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices. *Assessment*. DOI pending.
+
+[PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/FinalOCS-AUPaper.pdf) $*$Sanctuary, C., $*$Hewitt, L., Demeyere, N., Kankkunen, K., Oxenham, V. D., Simpson, D. B., Stolwyk, R. J., Synn, A., **Webb, S.S.**, Marsden, D. L. (2022). The Oxford Cognitive Screen for use with Australian people after stroke (OCS-AU): The adaptation process, and determining cut scores for cognitive impairment using a cross-sectional normative study. *Australian Occupational Therapy Journal*. [DOI](https://doi.org/10.1111/1440-1630.12838).
 
 [PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/OCSPlusstroke.pdf) **Webb S. S**, Hobden G, Roberts R, Chiu EG, King S, Demeyere N. (2022) Validation of the UK English Oxford cognitive screen-plus in sub-acute and chronic stroke survivors. *European Stroke Journal*. [DOI 10.1177/23969873221119940](https://doi.org/10.1177/23969873221119940)
 
