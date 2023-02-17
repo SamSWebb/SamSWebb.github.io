@@ -7,58 +7,45 @@ Here you can find my current projects, where I am leading author, all are open a
 ![](Project%20collage.png){width="100%"} 
 
 ## <span style="color:black">**Pending publications**
-...
+[Access](https://healthopenresearch.org/articles/5-8/v1) Webb, S. S, Carrick, C, Kusec, A, &  Demeyere, N. (2023). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen [version 1; peer review: awaiting peer review]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://doi.org/10.12688/healthopenres.13291.1)  
+
 
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
 ### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
 
--   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.
-- Status: under active recruitment
+-   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.  
 
 ## <span style="color:black">**Preprints:**
-nil.
+[Accesss](https://psyarxiv.com/agb3j/) Webb, S. S., & Demeyere, N. (2023, February 16). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. [DOI: https://psyarxiv.com/agb3j/](https://doi.org/10.31234/osf.io/agb3j)  
 
 ## <span style="color:black">**Ongoing Projects-:**
+### <span style="color:grey90">Digital vs real-life Multiple Errands Tests: A mixed-method comparison of OxMET and MET-Home.
+Performance on the Oxford Digital Multiple Errands Test (OxMET), a validated computer tablet-based executive function task, has the potential to inform rehabilitation and discharge decisions. The aim of the present study was to compare the acceptability and feasibility of the OxMET compared to the MET-Home, an established in-person test of executive function.
+The present study sampled 97 participants (47 stroke survivors, 50 neurologically healthy control participants). Stroke survivors were on average 515 days post-stroke. All participants completed the OxMET and the MET-Home, and the MoCA, and questionnaires on ADLs, depression, mobility and disability.  We examined correlated performance on OxMET and MET-Home and assessed predictors of completion/accuracy. We asked for feedback about both METs.    
+Using age, education, sex, mobility, disability, mood, MoCA score, technology usage, stroke severity, and time since stroke as predictors, there were no predictors of OxMET completion. MET-Home completion was predicted by sex B= 0.18, p=.03, mobility level B= 0.13, p=.02, and MoCA score B= 0.24, p=.02. MET-Home accuracy was predicted by Age B= -0.04, p= .03, sex B= -.98, p= .03, mRS B= -0.63, p= .04, and MoCA score B= .26, p<.001. OxMET accuracy was predicted by MoCA score B=.41, p<.001. MET-Home accuracy was significantly related to multiple OxMET metrics (r>=.30 & p<.006). Verbal feedback from participants indicated that the OxMET was easy and fun and had less cognitive/non-cognitive barriers compared to the MET-Home, but that the MET-Home was more challenging and interesting.   
+- **Status**: In preparation
 
-### <span style="color:grey90">Validation of the remote version of the UK-English Oxford Cognitive Screen in stroke ##
-The increasing popularity of teleneuropsychology has increased accessibility of cognitive assessment. We evaluated the performance of the Oxford Cognitive Screen (OCS), a stroke-specific cognitive assessment, in adult stroke survivors across in-person and remote administrations.
-Forty stroke survivors were recruited; age M=69.30(SD=10.44); education M=13.45(SD=2.85), sex = 30% F, NIHSS M=7.30(SD=6). All completed the OCS both in person and remotely within ~30 days. Cohen’s d estimates and sensitivity/specificity analysis were used to compare performance between modalities.
-Half of participants (45%) showed stable impairment classifications on all subtasks across modalities (5%-55% range of impairment classification shifts per subtask). The remote OCS was highly specific, though limited sensitivity, as per the original paper OCS.
-The remote OCS is a valid and can accurately classify participants as impaired or not on OCS subtasks. The validation of a stroke-specific screening tool for remote assessment can aid in addressing the lack of adequate cognitive screening following stroke.
-- Status: preparing manuscript (September 2022)
+### <span style="color:grey90">Development and validation of the Oxford Cognitive Screen - General Practice (OCS-GP).
+This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the OCS-GP. We are preparing funding applications for this project currently. Copyright is retained for all uses of the OCS-GP, and OCS-GP name.  
+- **Status**: In development  
 
-
-### <span style="color:grey90">Ecological and predictive validity of the Oxford Digital Multiple Errands Test (OxMET) in stroke ##
-
-The Oxford Digital Multiple Errands Test (OxMET) is a brief cognitive screen, intended as an ecologically valid approach to assessing complex executive function, in contrast to traditional abstract neuropsychological assessments with high language demands. Initial psychometric validation of the OxMET found high internal reliability and test-retest reliability, as well as good convergent and divergent validity. For my DPhil I am further investigating the ecological validity of the OxMET in three phases:  
-
-1.    Assessing the relation of the OxMET to commonly used clinical function scales in a subacute stroke sample.
-Participants within 3 months of confirmed stroke are being recruited from a UK English-speaking specialist stroke rehabilitation in-patient setting. Each completes the OxMET with a researcher, whilst clinical outcome measures are collected from medical notes: Barthel Index, the Modified Rankin scale, and the stroke specific Therapy Outcome Measure scale.
-2.    Assessing whether OxMET, when administered in the rehab unit, predicts activities of daily living and/or subjective cognitive complains at a 6-month follow up from phase 1. Participants recruited in phase 1 are being followed up and administered the Cognitive Failures Questionnaire and ADL measures, as well as estimates of modified rankin scale. 
-3.    In phase 3, we are actively recruiting neurologically healthy controls and stroke survivors (at any time post-stroke) to complete the OxMET as well as the [MET-Home](www.met-home.com). We aim to compare the feasibility of administration of the OxMET and MET-Home in the community setting as well as correlate the OxMET and MET-Home together and further assess the relationship between ADLs in the community and OxMET performance. 
+### <span style="color:grey90">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
+This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.    
+- **Status**: Active data collection  
 
 
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
-Assessment of mental capacity is a critical aspect of clinical practice. Mental capacity is a legal concept defined in statute by the Mental Capacity Act 2005 (England and Wales). Current best practice consists of a qualitative interview to elucidate the ability to (i) understand, (ii) retain and (iii) weigh up the specific information at hand, and to (iv) communicate a decision. Capacity assessments often fail to align with the legal standards and are often contentious with low agreement rates. We developed and validated a new brief neuropsychological screening tool (The Oxford Competency Assessment; COMPASS) to assess the cognitive constructs aligned to the core abilities required for mental capacity. 
-122 neurologically healthy participants were compared with 117 participants with neurological conditions (stroke or dementia/mild cognitive impairment) on COMPASS performance. The validation included 56 control participants and 69 neurological participants who completed additional neuropsychological tasks including the MoCA. 29 participants were re-tested. 80 participants were compared against a mental capacity assessment on setting up a hypothetical Lasting Power of Attorney.
-We found great reliability of the COMPASS, convergent validity analysis revealed low but significant correlations, and divergent validation was achieved. The COMPASS total score was similar to the MoCA in identifying impairment in mental capacity assessments, but neither were adequate to differentiate impairment in core abilities (i.e., understanding, retention, or weighing up)
-Further research comparing the COMPASS to capacity assessments with differing complexity is necessary, and to see whether the COMPASS increases interrater reliability in capacity assessments.
-- Status: In preparation
+Assessment of mental capacity is a critical aspect of clinical practice. Mental capacity is a legal concept defined in statute by the Mental Capacity Act 2005 (England and Wales). Current best practice consists of a qualitative interview to elucidate the ability to (i) understand, (ii) retain and (iii) weigh up the specific information at hand, and to (iv) communicate a decision. Capacity assessments often fail to align with the legal standards and are often contentious with low agreement rates. We developed and validated a new brief neuropsychological screening tool (The Oxford Competency Assessment; COMPASS) to assess the cognitive constructs aligned to the core abilities required for mental capacity. We aim for COMPASS to help decide best practice for conducting a full mental capacity assessment in light of identified issues. That is, if a memory impairment is found, clinicians know to adapt procedures to reduce uneccessary burden on retention of information during the capacity assessment.  
+
+122 neurologically healthy participants were compared with 117 participants with neurological conditions (stroke or dementia/mild cognitive impairment) on COMPASS performance. The validation included 56 control participants and 69 neurological participants who completed additional neuropsychological tasks including the MoCA. 29 participants were re-tested. 80 participants were compared against a mental capacity assessment on setting up a hypothetical Lasting Power of Attorney.  
+We found great reliability of the COMPASS, convergent validity analysis revealed low but significant correlations, and divergent validation was achieved. The COMPASS total score was similar to the MoCA in identifying impairment in mental capacity assessments, but neither were adequate to differentiate impairment in core abilities (i.e., understanding, retention, or weighing up).
+Further research comparing the COMPASS to capacity assessments with differing complexity is necessary, as it may be that the decision focussed on was too complex for an initial investigation.
+- **Status**: In preparation
 
 
 ## <span style="color:black">**Unpublished / Unpre-printed works**
-
-### [MSc Dissertation](https://osf.io/cktj9/)
-
--   This forms the storage for my MSc work
-
--   Including
-
-    -   Final anonymised data (both controls and patients data)
-    -   Analysis script to reproduce my analysis
-    -   Original pre-registration and files explaining changes along the research pipeline
 
 ### [Essay on alternative facts in psychology](https://osf.io/5wmkr/)
 
