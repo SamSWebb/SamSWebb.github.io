@@ -19,23 +19,14 @@ Here you can find my current projects, where I am leading author, all are open a
 ## <span style="color:black">**Preprints:**
 [Access](https://psyarxiv.com/4c5et/) Webb, S. S., & Demeyere, N. (2023, July 20). Comparing the Oxford Digital Multiple Errands Test (OxMET) to a real-life version: convergence, feasibility, and acceptability. [DOI: 10.31234/osf.io/4c5et](https://doi.org/10.31234/osf.io/4c5et)  
 
-[Access](https://psyarxiv.com/agb3j/) Webb, S. S., & Demeyere, N. (2023, February 16). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. [DOI: 10.31234/osf.io/agb3j](https://doi.org/10.31234/osf.io/agb3j)  
-
 ## <span style="color:black">**Ongoing Projects-:**
-### <span style="color:grey90">Digital vs real-life Multiple Errands Tests: A mixed-method comparison of OxMET and MET-Home.
-Performance on the Oxford Digital Multiple Errands Test (OxMET), a validated computer tablet-based executive function task, has the potential to inform rehabilitation and discharge decisions. The aim of the present study was to compare the acceptability and feasibility of the OxMET compared to the MET-Home, an established in-person test of executive function.
-The present study sampled 97 participants (47 stroke survivors, 50 neurologically healthy control participants). Stroke survivors were on average 515 days post-stroke. All participants completed the OxMET and the MET-Home, and the MoCA, and questionnaires on ADLs, depression, mobility and disability.  We examined correlated performance on OxMET and MET-Home and assessed predictors of completion/accuracy. We asked for feedback about both METs.    
-Using age, education, sex, mobility, disability, mood, MoCA score, technology usage, stroke severity, and time since stroke as predictors, there were no predictors of OxMET completion. MET-Home completion was predicted by sex B= 0.18, p=.03, mobility level B= 0.13, p=.02, and MoCA score B= 0.24, p=.02. MET-Home accuracy was predicted by Age B= -0.04, p= .03, sex B= -.98, p= .03, mRS B= -0.63, p= .04, and MoCA score B= .26, p<.001. OxMET accuracy was predicted by MoCA score B=.41, p<.001. MET-Home accuracy was significantly related to multiple OxMET metrics (r>=.30 & p<.006). Verbal feedback from participants indicated that the OxMET was easy and fun and had less cognitive/non-cognitive barriers compared to the MET-Home, but that the MET-Home was more challenging and interesting.   
-- **Status**: In preparation
-
 ### <span style="color:grey90">Development and validation of the Oxford Cognitive Screen - General Practice (OCS-GP).
 This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the OCS-GP. We are preparing funding applications for this project currently. Copyright is retained for all uses of the OCS-GP, and OCS-GP name.  
 - **Status**: In development  
 
 ### <span style="color:grey90">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
 This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.    
-- **Status**: Active data collection  
-
+- **Status**: Data collection now finished (July 2023).
 
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
