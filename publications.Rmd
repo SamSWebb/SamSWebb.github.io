@@ -9,7 +9,7 @@ title: "Personal Repository for Publications"
 }
 </style>
 # **2023**
-[Access](https://psyarxiv.com/agb3j/) Webb, S. S., & Demeyere, N. (2023, July 31st). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. *Neuropsychological Rehabilitation*, [Pre-publication DOI: 10.31234/osf.io/agb3j](https://doi.org/10.31234/osf.io/agb3j)  
+[Access](https://psyarxiv.com/agb3j/) Webb, S. S., & Demeyere, N. (2023, July 31st). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. *Neuropsychological Rehabilitation*, https://doi.org/10.1080/09602011.2023.2247152.  
 
 # **2022**
 [PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/MultiverseExecFunctPaper.pdf) **Webb, S. S.**, & Demeyere, N. (2022). Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices. *Assessment*. [DOI:10.1177/10731911221127904](https://doi.org/10.1177/10731911221127904)
