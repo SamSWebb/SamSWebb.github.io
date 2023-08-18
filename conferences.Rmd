@@ -4,6 +4,18 @@ title: "Conferences"
 
 ## <span style="color:dodgerblue">**Poster content and location**
 
+<span style="color:purple">*Development and validation of an IRT and theory-based Oxford Cognitive Screen short form (OCS-GP) for use in primary care* -- September 2023
+
+-   Federation of the European Societies of Neuropsychology (FESN) - September 2023: see it soon...
+
+<span style="color:purple">*Development and validation of an IRT and theory-based Oxford Cognitive Screen short form (OCS-GP) for use in primary care* -- July 2023
+
+-   Organisation for Psychological Research into Stroke (OPSYRIS) 2023: see it [here](https://osf.io/n8ws7)
+
+<span style="color:purple">*Predicting ADLs and subjective cognitive failures with the Oxford Digital Multiple Errands Test (OxMET)* -- November 2022
+
+-   UK Stroke Forum - November 2022: see it [here](https://osf.io/dvmbf)
+
 <span style="color:purple">*Cultural adaptation of the Oxford Digital Multiple Errands Test (OxMET) for an English speaking North American population* -- July 2022
 
 -   Rehabilitation Engineering and Assistive Technology Society of North America - July 2022: see it [here](https://osf.io/94ye8)

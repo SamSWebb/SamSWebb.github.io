@@ -5,11 +5,6 @@ title: "Projects"
 Here you can find my current projects, where I am leading author, all are open access, or otherwise stated. Hyperlinks take you direct to pre-prints, publications, and data repositories.
 
 ![](Project%20collage.png){width="100%"} 
-
-## <span style="color:black">**Pending publications**
-[Access](https://healthopenresearch.org/articles/5-8/v1) Webb, S. S, Carrick, C, Kusec, A, &  Demeyere, N. (2023). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen [version 1; peer review: awaiting peer review]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://doi.org/10.12688/healthopenres.13291.1)  
-
-
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
 
 ### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
