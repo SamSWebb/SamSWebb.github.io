@@ -1,16 +1,16 @@
 ---
 title: "Sam S. Webb, Msc (he/him)"
 
-subtitle: "Current DPhil candidate"
+subtitle: "Research Psychologist"
 ---
 
 [Funded by The Stroke Association]{style="color:dodgerblue"}
 
 ![](headshot_edited_SA.png){width="70%"}
 
-This website, hosted through Github and created in RMarkdown, is a repository for all projects, publications, posters, and contact links related to my academic work.
+Versatile and dedicated researcher with over 5yearsof experience in assessment and data collection for diverse research projectsinvolving children to older adults. Proven proficiency in R and R Studio, Microsoft Word, and Excel, combined with a strong background in Psychology and Neuropsychology. Recognized for academic excellence and awarded a fully funded post-graduate fellowshipby the Stroke Associationfor independent research. Adept at personal and group projectmanagement.Experience in writing for academic publication, with over 10 publications within a 3-year period. Supervision experience for two MSc students. 
 
-On the whole, my focus is on executive dysfunction following brain injury (stroke) and how we measure dysfunction. I am particularly interested in clinical tool development, especially psychometric validation work, and neuropsychology.
+On the whole, my focus is on executive dysfunction following brain injury (stroke) and how we measure dysfunction. I am particularly interested in clinical tool development, especially validation work, and neuropsychology.
 
 I am a current full-time DPhil (PhD) candidate at the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/) at University of Oxford, for the [Translational Neuropsychology Lab](https://www.psy.ox.ac.uk/research/translational-neuropsychology). I have been awarded a fully funded Postgraduate Fellowship through [The Stroke Association](https://www.stroke.org.uk). 
 

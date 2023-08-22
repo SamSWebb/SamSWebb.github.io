@@ -13,7 +13,7 @@
 
 <title>Sam S. Webb, Msc (he/him)</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.2.1/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.2.1/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -144,11 +144,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -177,8 +181,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -186,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -281,7 +278,7 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">Sam S. Webb, Msc (he/him)</h1>
-<h3 class="subtitle">Current DPhil candidate</h3>
+<h3 class="subtitle">Research Psychologist</h3>
 
 </div>
 
@@ -289,13 +286,20 @@ $(document).ready(function () {
 <p><span style="color:dodgerblue">Funded by The Stroke
 Association</span></p>
 <p><img src="headshot_edited_SA.png" style="width:70.0%" /></p>
-<p>This website, hosted through Github and created in RMarkdown, is a
-repository for all projects, publications, posters, and contact links
-related to my academic work.</p>
+<p>Versatile and dedicated researcher with over 5yearsof experience in
+assessment and data collection for diverse research projectsinvolving
+children to older adults. Proven proficiency in R and R Studio,
+Microsoft Word, and Excel, combined with a strong background in
+Psychology and Neuropsychology. Recognized for academic excellence and
+awarded a fully funded post-graduate fellowshipby the Stroke
+Associationfor independent research. Adept at personal and group
+projectmanagement.Experience in writing for academic publication, with
+over 10 publications within a 3-year period. Supervision experience for
+two MSc students.</p>
 <p>On the whole, my focus is on executive dysfunction following brain
 injury (stroke) and how we measure dysfunction. I am particularly
-interested in clinical tool development, especially psychometric
-validation work, and neuropsychology.</p>
+interested in clinical tool development, especially validation work, and
+neuropsychology.</p>
 <p>I am a current full-time DPhil (PhD) candidate at the <a
 href="https://www.psy.ox.ac.uk/">Department of Experimental
 Psychology</a> at University of Oxford, for the <a
