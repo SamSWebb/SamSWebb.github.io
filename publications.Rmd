@@ -9,13 +9,15 @@ title: "Personal Repository for Publications"
 }
 </style>
 # **2023**
-[Access](https://psyarxiv.com/agb3j/) Webb, S. S., & Demeyere, N. (2023). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2023.2247152](https://doi.org/10.1080/09602011.2023.2247152)  
+[Access](https://www.demeyerelab.org/wp-content/papercite-data/pdf/p_cultural_2023.pdf) A. P., P., Venkateswaran, P., Vijayanand, S., **Webb, S. S.**, Ramkumar, S., C. R., S. and Demeyere, N.  (2023). The cultural and linguistic adaptation of the Oxford Cognitive Screen to Tamil.  *Journal of the International Neuropsychological Society*. 2023;29(10):964-971.DOI:10.1017/S135561772300067X
 
-[Access](https://healthopenresearch.org/articles/5-8/v1) Webb, S. S, Carrick, C, Kusec, A, &  Demeyere, N. (2023). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen  [version 1; peer review: 2 approved with reservations]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://doi.org/10.12688/healthopenres.13291.1)  
+[Access](https://psyarxiv.com/agb3j/) **Webb, S. S.**, & Demeyere, N. (2023). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2023.2247152](https://doi.org/10.1080/09602011.2023.2247152)  
+
+[Access](https://healthopenresearch.org/articles/5-8/v1) **Webb, S. S**, Carrick, C, Kusec, A, &  Demeyere, N. (2023). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen  [version 1; peer review: 2 approved with reservations]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://doi.org/10.12688/healthopenres.13291.1)  
 
 
 # **2022**
-[PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/MultiverseExecFunctPaper.pdf) **Webb, S. S.**, & Demeyere, N. (2022). Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices. *Assessment*. [DOI:10.1177/10731911221127904](https://doi.org/10.1177/10731911221127904)
+[PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/MultiverseExecFunctPaper.pdf) **Webb, S. S.**, & Demeyere, N. (2023). Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices. *Assessment*,Assessment, 30(6), 1825-1835. [DOI:10.1177/10731911221127904](https://doi.org/10.1177/10731911221127904)
 
 [PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/FinalOCS-AUPaper.pdf) $*$Sanctuary, C., $*$Hewitt, L., Demeyere, N., Kankkunen, K., Oxenham, V. D., Simpson, D. B., Stolwyk, R. J., Synn, A., **Webb, S.S.**, Marsden, D. L. (2022). The Oxford Cognitive Screen for use with Australian people after stroke (OCS-AU): The adaptation process, and determining cut scores for cognitive impairment using a cross-sectional normative study. *Australian Occupational Therapy Journal*. [DOI:10.1177/10731911221127904](https://doi.org/10.1111/1440-1630.12838).
 
