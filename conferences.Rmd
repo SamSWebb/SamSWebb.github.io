@@ -2,11 +2,22 @@
 title: "Conferences"
 ---
 
+## <span style="color:dodgerblue">**Talk content and location**
+
+<span style="color:purple">*The Oxford Digital Multiple Errands Test (OxMET)* -- April 2024
+
+-   British Neuropsychological Society (BNS) - April 2024: see it [here](https://osf.io/qmvgs).
+
+<span style="color:purple">*The Oxford Digital Multiple Errands Test (OxMET)* -- July 2023
+
+-   Organisation for Psychological Research into Stroke (OPSYRIS) 2023: see it [here](https://osf.io/nt8xw)
+
+
 ## <span style="color:dodgerblue">**Poster content and location**
 
 <span style="color:purple">*Development and validation of an IRT and theory-based Oxford Cognitive Screen short form (OCS-GP) for use in primary care* -- September 2023
 
--   Federation of the European Societies of Neuropsychology (FESN) - September 2023: see it soon...
+-   Federation of the European Societies of Neuropsychology (FESN) - September 2023: see it [here](https://osf.io/n8ws7).
 
 <span style="color:purple">*Development and validation of an IRT and theory-based Oxford Cognitive Screen short form (OCS-GP) for use in primary care* -- July 2023
 
