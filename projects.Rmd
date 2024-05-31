@@ -20,9 +20,9 @@ nil.
 
 
 ## <span style="color:black">**Ongoing Projects-:**
-### <span style="color:grey90">Development and validation of the Oxford Cognitive Screen - General Practice (OCS-GP).
-This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the OCS-GP. We are preparing funding applications for this project currently. Copyright is retained for all uses of the OCS-GP, and OCS-GP name.  
-- **Status**: Under active recruitment (January 2024) 
+### <span style="color:grey90">Development and validation of the Mini-Oxford Cognitive Screen (Mini-OCS).
+This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the Mini-OCS. We are preparing funding applications for this project currently. Copyright is retained for all uses of the Mini-OCS and Mini-OCS name.  
+- **Status**: In preparation (May 2024) 
 
 ### <span style="color:grey90">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
 This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.    
@@ -37,7 +37,7 @@ Assessment of mental capacity is a critical aspect of clinical practice. Mental 
 We found great reliability of the COMPASS, convergent validity analysis revealed low but significant correlations, and divergent validation was achieved. The COMPASS total score was similar to the MoCA in identifying impairment in mental capacity assessments, but neither were adequate to differentiate impairment in core abilities (i.e., understanding, retention, or weighing up).
 
 Further research comparing the COMPASS to capacity assessments with differing complexity is necessary, as it may be that the decision focussed on was too complex for an initial investigation.  
-- **Status**: In preparation
+- **Status**: In preparation (May 2024)
 
 
 ## <span style="color:black">**Unpublished / Unpre-printed works**
