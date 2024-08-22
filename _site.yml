@@ -13,6 +13,8 @@ navbar:
       href: conferences.html
     - text: "CV"
       href: cv.html
+    - text: "End of DPhil booklet"
+      href: EndOfDphilBooklet.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
