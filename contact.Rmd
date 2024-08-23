@@ -4,34 +4,21 @@ title: "Contact"
 
 If you would like to get in contact with me please use the following methods.
 
-<span style="color:dodgerblue">Email:
-
-[sam.webb\@psy.ox.ac.uk](mailto:sam.webb@psy.ox.ac.uk){.email} or [samswebb96\@gmail.com](mailto:samswebb96@gmail.com){.email}
+<span style="color:dodgerblue">Email: [sam.webb\@ndcn.ox.ac.uk](mailto:sam.webb@ndcn.ox.ac.uk){.email}
 
 Or use my other mediums
 
-[![](icon_ORCID_iD.png){width="10"}](http://orcid.org/0000-0002-0029-4665)
-
-[![](icon_twitter.png){width="10"}](https://twitter.com/Saffello96)
-
-[![](icon_GitHub.png){width="500"}](https://github.com/SamSWebb)
-
-[![](icon_Scholar.png){width="10"}](https://scholar.google.com/citations?user=PhwRni4AAAAJ&hl=en)
-
-[![](icon_researchagte.png){width="10" height="250"}](https://www.researchgate.net/profile/Sam-Webb-3)
-
-[![](icon_linkedin.png){width="10"}](https://www.linkedin.com/in/sam-s-webb-232143158/)
+[![](icon_ORCID_iD.png){width="10%"}](http://orcid.org/0000-0002-0029-4665)
+[![](icon_twitter.png){width="10%"}](https://twitter.com/Saffello96)
+[![](icon_GitHub.png){width="10%"}](https://github.com/SamSWebb)
+[![](icon_Scholar.png){width="10%"}](https://scholar.google.com/citations?user=PhwRni4AAAAJ&hl=en)
+[![](icon_researchagte.png){width="10%"}](https://www.researchgate.net/profile/Sam-Webb-3)
+[![](icon_linkedin.png){width="10%"}](https://www.linkedin.com/in/sam-s-webb-232143158/)
 
 <span style="color:dodgerblue">Post:
 
-Sam Webb,
-
-Anna Watts building,
-
-Department of Experimental Psychology,
-
-Radcliffe Observatory Quarter,
-
-Oxford,
-
-OX2 6GG.
+Dr Sam S. Webb,  
+Nuffield Department of Experimental Psychology,  
+Level 6, West Wing, John Radcliffe Hospital,  
+Oxford,  
+OX3 9DU.
