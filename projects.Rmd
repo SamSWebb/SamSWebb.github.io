@@ -2,13 +2,17 @@
 title: "Projects"
 ---
 
-Here you can find my current projects, where I am leading author, all are open access, or otherwise stated. Hyperlinks take you direct to pre-prints, publications, and data repositories.
-
 ![](Project%20collage.png){width="100%"} 
 
+## <span style="color:black">**Current Funding:-**
+
+### <span style="color:purple">Co-production and validity of a Multistage Cognitive Screening app for Stroke (MCS-stroke) - Stroke Association funded Postdoctoral research fellowship (SA_PF25\100003)
+
+The heterogeneity of post- stroke cognitive impairments is reflected in the range of severity and variety of domain-specific and domain-general degeneration. In addition, stroke survivors may have visual, communication, and/or motor impairments impacting the way we assess cognitive function. Stroke-specific cognitive screening is required, though no single cognitive screening tool can appropriately capture both domain-specific and general cognitive impairment at the correct level of complexity for every single person. I will combine validated stroke-specific cognitive screening tests in a computerised multi-stage format which adapts to the nature and severity of the cognitive impairments under assessment. I will co-produce the Multistage Cognitive Screening computer-tablet app (MSC-Stroke) and reporting, with allied health professionals and stroke survivors. I will determine 1) the equivalency of the MSC-Stroke implemented tests with their paper-based versions, 2) the association between functional outcomes and MCS-Stroke performance, 3) and validate the internal structure of the MSC-Stroke using factor analysis. 300 stroke survivors across the stroke-pathway will be recruited. The outcome of the fellowship will be a co-produced multi-staged cognitive screening app adjustable for most stroke survivors across the stroke pathway. Further research will be needed to ultimately seek medical device regulation for implementation in clinical practice.  
+- **Status**: Active. 
+
+
 ## <span style="color:black">**Stage 1 Accepted Registered Reports:**
-
-
 
 ### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
 
@@ -16,17 +20,33 @@ Here you can find my current projects, where I am leading author, all are open a
 
 ## <span style="color:black">**Preprints:**
 
-nil. 
+[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. https://doi.org/10.31234/osf.io/yvb43
+
+[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. https://doi.org/10.31234/osf.io/yb3fe
 
 
-## <span style="color:black">**Ongoing Projects-:**
+## <span style="color:black">**Ongoing Projects:-**
+
+### <span style="color:grey90">Establishing the minimal detectable and clinically important changes in the Oxford Cognitive Screening programme measures
+
+There is currently no gold standard cognitive outcome measure in stroke clinical trials. In this project, we aim to generate a total score for the Oxford Cognitive Screening programme suit of tests. The tests include the Oxford Cognitive Screen (OCS), the OCS-Plus, and the Mini-OCS (see pre-prints) so that they can be used as outcome measures. The project will include reliable change indexing, minimal detectable change (MDC), minimal clinically important difference (MCID) indexing, and convergent and discriminant validity evidence. We will use distribution based methods for establishing MDC and MCID.   
+- **Status**: OCS - Manuscript in preparation (Oct 2024); OCS-Plus - Manuscript in preparation (Oct 2024); Mini-OCS - Manuscript pre-printed for total score. 
+
+
+### <span style="color:grey90">Does impairment classification method affect clinical interpretation of participant performance?
+
+In this project, in collaboration with statisticians and psychologist researchers, we will compare Multivariate Normative Comparison methods with univariate analyses techniques to establish if the methods are sufficiently differen to warrent different clinical interpretations.  
+- **Status**: Active data analysis and manuscript preparation (Oct 2024). 
+
+
 ### <span style="color:grey90">Development and validation of the Mini-Oxford Cognitive Screen (Mini-OCS).
-This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the Mini-OCS. We are preparing funding applications for this project currently. Copyright is retained for all uses of the Mini-OCS and Mini-OCS name.  
-- **Status**: In preparation (May 2024) 
+This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the Mini-OCS. We are preparing funding applications for this project currently. Copyright is retained for all uses of the Mini-OCS and Mini-OCS name.    
+- **Status**: Pre-printed (above) and submitted for publication (Oct 2024) 
 
 ### <span style="color:grey90">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
-This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.    
-- **Status**: In preparation (January 2024).
+This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.      
+- **Status**: Pre-printed (above) and submitted for publication (Oct 2024) 
+  
 
 ### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
