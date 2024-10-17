@@ -8,8 +8,27 @@ title: "Personal Repository for Publications"
   margin-right: auto;
 }
 </style>
+
+---   
+
+## <span style="color:black">**Stage 2 Accepted Registered Report:**
+### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
+
+-   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.  
+- **Status**: Accepted in principal, seeking final version (Oct 2024)
+
+---   
+
+## <span style="color:black">**Preprints:**
+[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. https://doi.org/10.31234/osf.io/yvb43
+
+[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. https://doi.org/10.31234/osf.io/yb3fe
+
+---   
+## <span style="color:black">**Peer-Reviewed:**
 # **2024**
 [Access](https://www.tandfonline.com/doi/full/10.1080/09602011.2024.2344326?src=exp-la) **Webb, S. S.,** & Demeyere, N. (2024). Comparing the Oxford Digital Multiple Errands Test (OxMET) to a real-life version: convergence, feasibility, and acceptability. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2024.2344326](https://doi.org/10.1080/09602011.2024.2344326).  
+
 [Access](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12369) Roberts, R., Vohora, R., **Webb, S. S.,** & Demeyere, N. (2024). Validating the OCS‐Plus against a clinical standard: A brief report. *Journal of Neuropsychology*. [DOI:10.1111/jnp.12369](https://doi.org/10.1111/jnp.12369)
 
 </style>

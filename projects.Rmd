@@ -4,51 +4,51 @@ title: "Projects"
 
 ![](Project%20collage.png){width="100%"} 
 
-## <span style="color:black">**Current Funding:-**
+## <span style="color:black">**Current Funding 2024-2027:-**
 
 ### <span style="color:purple">Co-production and validity of a Multistage Cognitive Screening app for Stroke (MCS-stroke) - Stroke Association funded Postdoctoral research fellowship (SA_PF25\100003)
 
 The heterogeneity of post- stroke cognitive impairments is reflected in the range of severity and variety of domain-specific and domain-general degeneration. In addition, stroke survivors may have visual, communication, and/or motor impairments impacting the way we assess cognitive function. Stroke-specific cognitive screening is required, though no single cognitive screening tool can appropriately capture both domain-specific and general cognitive impairment at the correct level of complexity for every single person. I will combine validated stroke-specific cognitive screening tests in a computerised multi-stage format which adapts to the nature and severity of the cognitive impairments under assessment. I will co-produce the Multistage Cognitive Screening computer-tablet app (MSC-Stroke) and reporting, with allied health professionals and stroke survivors. I will determine 1) the equivalency of the MSC-Stroke implemented tests with their paper-based versions, 2) the association between functional outcomes and MCS-Stroke performance, 3) and validate the internal structure of the MSC-Stroke using factor analysis. 300 stroke survivors across the stroke-pathway will be recruited. The outcome of the fellowship will be a co-produced multi-staged cognitive screening app adjustable for most stroke survivors across the stroke pathway. Further research will be needed to ultimately seek medical device regulation for implementation in clinical practice.  
 - **Status**: Active. 
 
-
-## <span style="color:black">**Stage 1 Accepted Registered Reports:**
-
-### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
-
--   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.  
-
-## <span style="color:black">**Preprints:**
-
-[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. https://doi.org/10.31234/osf.io/yvb43
-
-[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. https://doi.org/10.31234/osf.io/yb3fe
-
+---  
 
 ## <span style="color:black">**Ongoing Projects:-**
 
-### <span style="color:grey90">Establishing the minimal detectable and clinically important changes in the Oxford Cognitive Screening programme measures
+### <span style="color:blue">Validating the DiSTRO-Oxford Cognitive Screen, a medical device compliant computer tablet version of the Oxford Cognitive Screen
+
+Funded by the commercial company Brain Stimulation AB (based in Sweden), I am working on a multi-site international trial psychometrically validating a commercial computer tablet version of the OCS. The study covers stroke wards (acute and rehab) in Sweden, Italy, and the UK. We aim to collect data for 150 stroke survivors and 100 neurologically healthy controls. We will compare the paper OCS to the DiSTRO-OCS to establish equivillance. We are currently setting projects up in the USA to validate a North American version of the OCS. 
+- **Status**: Under active recruitment (Oct 2024)
+
+   
+### <span style="color:blue">Establishing a statistically and clinically meaningful total score for the Oxford Cognitive Screening programme measures
 
 There is currently no gold standard cognitive outcome measure in stroke clinical trials. In this project, we aim to generate a total score for the Oxford Cognitive Screening programme suit of tests. The tests include the Oxford Cognitive Screen (OCS), the OCS-Plus, and the Mini-OCS (see pre-prints) so that they can be used as outcome measures. The project will include reliable change indexing, minimal detectable change (MDC), minimal clinically important difference (MCID) indexing, and convergent and discriminant validity evidence. We will use distribution based methods for establishing MDC and MCID.   
 - **Status**: OCS - Manuscript in preparation (Oct 2024); OCS-Plus - Manuscript in preparation (Oct 2024); Mini-OCS - Manuscript pre-printed for total score. 
 
 
-### <span style="color:grey90">Does impairment classification method affect clinical interpretation of participant performance?
+### <span style="color:blue">Does impairment classification method affect clinical interpretation of participant performance?
 
-In this project, in collaboration with statisticians and psychologist researchers, we will compare Multivariate Normative Comparison methods with univariate analyses techniques to establish if the methods are sufficiently differen to warrent different clinical interpretations.  
+In this project, in collaboration with statisticians and psychologist researchers, we will compare Multivariate Normative Comparison methods with univariate analyses techniques to establish if the methods are sufficiently different to warrant different clinical interpretations.  
 - **Status**: Active data analysis and manuscript preparation (Oct 2024). 
 
+## <span style="color:black">**Completed, but not yet published, projects:-**
 
-### <span style="color:grey90">Development and validation of the Mini-Oxford Cognitive Screen (Mini-OCS).
+### <span style="color:blue">From Long to Short: Creation and then Reduction of a Personality Assessment to Aid in Learning and Development
+
+As part of a part-time role with the commercial company Peter Pease Business Psychology, I was leading the psychometric development and validation of a project generating a new personality questionnaire for employee learning and development. I was employed for nearly 18 months for this role which was remote and we produce both a long and short form of the questionnaire which was psychometrically sound.
+- **Status**: Project completed Sept 2024.
+
+### <span style="color:blue">Development and validation of the Mini-Oxford Cognitive Screen (Mini-OCS).
 This project is in collaboration with multiple national sites across the UK, including Dr Eugene Tang and Dr Nele Demeyere. Currently I am collecting some initial data to support the use of the Mini-OCS. We are preparing funding applications for this project currently. Copyright is retained for all uses of the Mini-OCS and Mini-OCS name.    
 - **Status**: Pre-printed (above) and submitted for publication (Oct 2024) 
 
-### <span style="color:grey90">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
+### <span style="color:blue">Further development of the Multiple Errands Test - Home (MET-Home) in a UK English-speaking sample of healthy adults and stroke survivors.
 This project, in collaboration with Dr Suzanne Burns (the creator of the [MET-Home](https://met-home.com/)), will generate new data for the MET-Home in healthy adults and stroke survivors with the aim of generating new normative cut offs for use in clinical practice. Currently there are no standardised norms for this task, yet we know, with anecdotal evidence, that it is being used in clinical practice regularly.      
 - **Status**: Pre-printed (above) and submitted for publication (Oct 2024) 
   
 
-### <span style="color:grey90">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
+### <span style="color:blue">[The Oxford COMPetency ASSessment(COMPASS): A Brief Supplemental Cognitive Assessment Aligned with Mental Capacity Criteria](http://www.demeyerelab.org/?page_id=469)
 
 Assessment of mental capacity is a critical aspect of clinical practice. Mental capacity is a legal concept defined in statute by the Mental Capacity Act 2005 (England and Wales). Current best practice consists of a qualitative interview to elucidate the ability to (i) understand, (ii) retain and (iii) weigh up the specific information at hand, and to (iv) communicate a decision. Capacity assessments often fail to align with the legal standards and are often contentious with low agreement rates. We developed and validated a new brief neuropsychological screening tool (The Oxford Competency Assessment; COMPASS) to assess the cognitive constructs aligned to the core abilities required for mental capacity. We aim for COMPASS to help decide best practice for conducting a full mental capacity assessment in light of identified issues. That is, if a memory impairment is found, clinicians know to adapt procedures to reduce uneccessary burden on retention of information during the capacity assessment.  
 
