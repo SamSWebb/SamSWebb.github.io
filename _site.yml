@@ -17,6 +17,7 @@ navbar:
       href: EndOfDphilBooklet.html
     - text: "Participate in Research"
       href: Participate.html
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
