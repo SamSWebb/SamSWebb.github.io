@@ -1,10 +1,5 @@
 ---
 title: "CV"
 ---
-<button class="btn btn-primary" data-toggle="collapse" data-target="#Spectra">Open Sam S. Webb CV</button> 
-<div id="Spectra" class="collapse">    
-<object data="Curriculum Vitae_2023.pdf" width="750px" height="750px">
-    <embed src="Curriculum Vitae_2023.pdf">
-    </embed>
-</object>
-</div>
+
+<iframe src="https://SamSWebb.github.io/docs/Curriculum Vitae_2024.pdf" width="100%" height="1000px"></iframe>
