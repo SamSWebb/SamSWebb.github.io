@@ -6,7 +6,7 @@ subtitle: "Postdoctoral Research Fellow"
 
 [Funded by The Stroke Association with a Postdoctoral Research Fellowship]{style="color:dodgerblue"}
 
-![](profilepic1.jpg){width="40%"}
+![](profilepic2.jpg){width="40%"}
 
 Versatile and dedicated post-doctoral researcher with over **6** years of experience in assessment and data collection for diverse research projects involving children to older adults. Proven proficiency in R and R Studio, Microsoft Word, and Excel, combined with a strong background in Psychology and Neuropsychology. Recognized for academic excellence and awarded a fully funded post-graduate fellowship by the Stroke Association for independent research. Adept at personal and group project management. Experience in writing for academic publication, with over 13 publications within a 3-year period. Supervision experience for two MSc students. 
 
