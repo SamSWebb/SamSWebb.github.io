@@ -9,36 +9,35 @@ title: "Personal Repository for Publications"
 }
 </style>
 
----   
-
-## <span style="color:black">**Stage 2 Accepted Registered Report:**
-### <span style="color:grey90">[Pre-Attentive Processing in Visuospatial Neglect: Burning Houses Revisited](https://osf.io/5trcx/)
-
--   The project seeks to replicate the pre-attentive semantic processing effect first documented by [Marshall and Halligan (1988)](https://www.nature.com/articles/336766a0) under more stringent experimental conditions, and in a broad, representative sample while investigating whether semantic or merely physical stimuli differences are responsible for modulating the occurrence of pre-attentive processing in neglect patients.  
-- **Status**: Accepted in principal, seeking final version (Oct 2024)
-
----   
-
 ## <span style="color:black">**Preprints:**
+# **2024**
 [Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. https://doi.org/10.31234/osf.io/yvb43
 
 [Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. https://doi.org/10.31234/osf.io/yb3fe
 
----   
-## <span style="color:black">**Peer-Reviewed:**
+---
+
+## <span style="color:black">**Registered Reports:**
+# **2025**
+[Access](https://doi.org/10.1016/j.cortex.2025.05.005) Moore, M. J., Hobden, G., **Webb, S. S.,**,Couwels, I., & Mattingley, J., Demeyere, N. (2025). Burning houses revisited: Unconscious preferences not specifically associated with semantic content or visuospatial neglect. (Cortex), [DOI:10.1016/j.cortex.2025.05.005](https://doi.org/10.1016/j.cortex.2025.05.005).
+ 
+---
+
+## <span style="color:black">**Peer-Reviewed Publications:**
+# **2025**
+[Access](https://doi.org/10.1523/JNEUROSCI.2048-24.2025) Pearce, D. J., Loughnane, G. M., Chong, T. T. J., Demeyere, N., Mattingley, J. B., Moore, M. J., ... & Bellgrove, M. A. (2025). Target selection signals causally influence human perceptual decision making. *Journal of Neuroscience*, [DOI:10.1523/JNEUROSCI.2048-24.2025](https://doi.org/10.1523/JNEUROSCI.2048-24.2025). 
+
 # **2024**
 [Access](https://www.tandfonline.com/doi/full/10.1080/09602011.2024.2344326?src=exp-la) **Webb, S. S.,** & Demeyere, N. (2024). Comparing the Oxford Digital Multiple Errands Test (OxMET) to a real-life version: convergence, feasibility, and acceptability. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2024.2344326](https://doi.org/10.1080/09602011.2024.2344326).  
 
 [Access](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12369) Roberts, R., Vohora, R., **Webb, S. S.,** & Demeyere, N. (2024). Validating the OCS‐Plus against a clinical standard: A brief report. *Journal of Neuropsychology*. [DOI:10.1111/jnp.12369](https://doi.org/10.1111/jnp.12369)
 
-</style>
 # **2023**
 [PDF](https://www.demeyerelab.org/wp-content/papercite-data/pdf/p_cultural_2023.pdf) A. P., P., Venkateswaran, P., Vijayanand, S., **Webb, S. S.**, Ramkumar, S., C. R., S. and Demeyere, N.  (2023). The cultural and linguistic adaptation of the Oxford Cognitive Screen to Tamil.  *Journal of the International Neuropsychological Society*. 2023;29(10):964-971.DOI:10.1017/S135561772300067X
 
 [Access](https://psyarxiv.com/agb3j/) **Webb, S. S.**, & Demeyere, N. (2023). Predictive validity of the Oxford Digital Multiple Errands Test (OxMET) for functional outcomes after stroke. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2023.2247152](https://doi.org/10.1080/09602011.2023.2247152)  
 
 [Access](https://healthopenresearch.org/articles/5-8/v1) **Webb, S. S**, Carrick, C, Kusec, A, &  Demeyere, N. (2023). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen  [version 1; peer review: 2 approved with reservations]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://doi.org/10.12688/healthopenres.13291.1)  
-
 
 # **2022**
 [PDF](https://github.com/SamSWebb/SamSWebb.github.io/blob/master/pdfs/MultiverseExecFunctPaper.pdf) **Webb, S. S.**, & Demeyere, N. (2023). Using multiverse analysis to highlight differences in convergent correlation outcomes due to data analytical and study design choices. *Assessment*,Assessment, 30(6), 1825-1835. [DOI:10.1177/10731911221127904](https://doi.org/10.1177/10731911221127904)
