@@ -11,21 +11,27 @@ title: "Personal Repository for Publications"
 
 ## <span style="color:black">**Preprints:**
 # **2024**
-[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. https://doi.org/10.31234/osf.io/yvb43
+[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. [DOI: 10.31234/osf.io/yvb43](https://doi.org/10.31234/osf.io/yvb43)
 
-[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. https://doi.org/10.31234/osf.io/yb3fe
+[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. [DOI: 10.31234/osf.io/yb3fe](https://doi.org/10.31234/osf.io/yb3fe)
+
+[Access](https://doi.org/10.1101/2025.06.04.25328952)  Cowen, K., Tabone, F., **Webb, S. S.,** Kusec, A., DaSilva, R., Thomas, R., Demeyere, N., Shaw, L., & Vancleef, K. (2025). The Oxford Visual Perception Screen detects visual perception difficulties in sub-acute adult stroke survivors: A cross-sectional diagnostic accuracy study. *medRxiv*. [DOI:10.1101/2025.06.04.25328952](https://doi.org/10.1101/2025.06.04.25328952)
+
 
 ---
 
 ## <span style="color:black">**Registered Reports:**
 # **2025**
-[Access](https://doi.org/10.1016/j.cortex.2025.05.005) Moore, M. J., Hobden, G., **Webb, S. S.,**,Couwels, I., & Mattingley, J., Demeyere, N. (2025). Burning houses revisited: Unconscious preferences not specifically associated with semantic content or visuospatial neglect. (Cortex), [DOI:10.1016/j.cortex.2025.05.005](https://doi.org/10.1016/j.cortex.2025.05.005).
+[Access](https://doi.org/10.1016/j.cortex.2025.05.005) Moore, M. J., Hobden, G., **Webb, S. S.,** Couwels, I., & Mattingley, J., Demeyere, N. (2025). Burning houses revisited: Unconscious preferences not specifically associated with semantic content or visuospatial neglect. *Cortex*, [DOI:10.1016/j.cortex.2025.05.005](https://doi.org/10.1016/j.cortex.2025.05.005).
  
 ---
 
 ## <span style="color:black">**Peer-Reviewed Publications:**
 # **2025**
 [Access](https://doi.org/10.1523/JNEUROSCI.2048-24.2025) Pearce, D. J., Loughnane, G. M., Chong, T. T. J., Demeyere, N., Mattingley, J. B., Moore, M. J., ... & Bellgrove, M. A. (2025). Target selection signals causally influence human perceptual decision making. *Journal of Neuroscience*, [DOI:10.1523/JNEUROSCI.2048-24.2025](https://doi.org/10.1523/JNEUROSCI.2048-24.2025). 
+
+
+
 
 # **2024**
 [Access](https://www.tandfonline.com/doi/full/10.1080/09602011.2024.2344326?src=exp-la) **Webb, S. S.,** & Demeyere, N. (2024). Comparing the Oxford Digital Multiple Errands Test (OxMET) to a real-life version: convergence, feasibility, and acceptability. *Neuropsychological Rehabilitation*, [DOI:10.1080/09602011.2024.2344326](https://doi.org/10.1080/09602011.2024.2344326).  
