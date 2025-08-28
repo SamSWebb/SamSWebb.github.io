@@ -10,8 +10,8 @@ title: "Personal Repository for Publications"
 </style>
 
 ## <span style="color:black">**Preprints:**
-# **2024**
-[Access](https://osf.io/preprints/psyarxiv/yvb43) **Webb, S. S.,** Sun, L., Tang, E., & Demeyere, N. (2024, July 2). The Mini-Oxford Cognitive Screen  (Mini-OCS): a very brief cognitive screen for use in chronic stroke. *psyarxiv*. [DOI: 10.31234/osf.io/yvb43](https://doi.org/10.31234/osf.io/yvb43)
+# **2025**
+[Access](https://osf.io/preprints/psyarxiv/vygbf_v1) **Webb, S. S.**, Jespersen, A., Grammatikos, P., Hobden, G., Chiu, E. G., Payne, F., … Demeyere, N. (2025, July 28). The Oxford COMPASS: A Brief Cognitive Screen to help guide Competency Assessments. *psyarxiv*. [DOI: 10.31234/osf.io/vygbf_v1](https://doi.org/10.31234/osf.io/vygbf_v1)
 
 [Access](https://doi.org/10.31234/osf.io/ym7wj_v1) Cowen, K., Tabone, F., **Webb, S. S.**, Kusec, A., DaSilva, R., Thomas, R., … Vancleef, K. (2025, June 10). Reliability and Validity of the Oxford Visual Perception Screen in Sub-Acute Adult Stroke Survivors. *psyarxiv*. [DOI: 10.31234/osf.io/ym7wj_v1](https://doi.org/10.31234/osf.io/ym7wj_v1)
 
@@ -30,6 +30,9 @@ title: "Personal Repository for Publications"
 
 ## <span style="color:black">**Peer-Reviewed Publications:**
 # **2025**
+[Access](https://doi.org/10.1177/23969873251358811) **Webb SS**, Sun L, Tang EYH, Demeyere N. The mini-Oxford cognitive screen (Mini-OCS): A very brief cognitive screen for use in chronic stroke. *Eur Stroke J*. 2025 Jul 27:23969873251358811. Epub ahead of print. PMCID: PMC12301230.[DOI: 10.1177/23969873251358811](https://doi.org/10.1177/23969873251358811)
+
+
 [Access](https://doi.org/10.1523/JNEUROSCI.2048-24.2025) Pearce, D. J., Loughnane, G. M., Chong, T. T. J., Demeyere, N., Mattingley, J. B., Moore, M. J., ... & Bellgrove, M. A. (2025). Target selection signals causally influence human perceptual decision making. *Journal of Neuroscience*, [DOI:10.1523/JNEUROSCI.2048-24.2025](https://doi.org/10.1523/JNEUROSCI.2048-24.2025). 
 
 

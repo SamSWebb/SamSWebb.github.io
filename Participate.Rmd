@@ -7,20 +7,25 @@ title: "Participate"
 ---  
 
 ## **Co-production of a Multi-Staged Digital Cognitive Screening Tool (Ethics Approval Reference: MS IDREC 587077)** 
-We have developed the skeleton of an app that aims to test for difficulties in mental abilities suitable for the full range of stroke survivors. We need your help to design this app to make it most accurate and appropriate for stroke survivors. We are hosting **in-person** hybrid workshops with experts to help build the app and the report outputs from the app about participant performance.
 
-We are looking to recruit allied healthcare professionals including:  
-*  Neuropsychologists  
-*  Psychologists  
-*  Speech and language therapists  
-*  Occupational therapists   
+Our study aims to pilot a new short multi-staged mental abilities task appropriate for stroke survivors across the full spectrum of stroke severity and stroke pathway (e.g., acute to community).
+ 
+We are looking to recruit both neurologically healthy adults without history of any severe psychiatric diagnoses or complaints, and also those who have had a stroke. 
 
-Eligibility:  
-*  18yrs of age and over  
-*  Fluent in English  
-*  Working in the UK  
-*  At least 1 year of experience in cognitive assessment in stroke  
 
-See below and contact me for further information- meetings would take place in the new year between **January-March**.
+Eligibility for all: 
+  * >18yrs of age
+  * Fluent in English
+  * Live in within 30 miles of Oxford, Oxfordshire
 
-![](poster and advert text v1_PART1.png){width="100%"}
+Eligibility for stroke survivors:  
+  * No severe psychiatric or neurological diagnoses or complaints  
+  * A history of stroke or TIA (min-stroke)  
+
+Eligibility for neurologically healthy adults:  
+  * No severe psychiatric or neurological diagnoses or complaints  
+  * No history of stroke or TIA (min-stroke)  
+
+You are invited to take part in a single one-off session testing out our new app. We will administer the assessment of your mental abilities, including tasks like remembering words and drawing lines, but we are particularly interested in the functionality of the app. We are hoping to finalise the apps development following this pilot.
+
+The session will take place in the Nuffield Department of Clinical Neurosciences at the John Radcliffe Hospital Oxford if you are able to come in. Alternatively we can come to your home. 
