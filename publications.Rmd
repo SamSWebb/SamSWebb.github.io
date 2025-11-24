@@ -11,13 +11,7 @@ title: "Personal Repository for Publications"
 
 ## <span style="color:black">**Preprints:**
 # **2025**
-[Access](https://doi.org/10.31219/osf.io/829v4_v1) Wo, Y., Demeyere, N. & **Webb, S. S.,** (2025, September 11). Comparison of the Tele-Oxford Cognitive Screen to a neuropsychological battery in chronic stroke survivors. *psyarxiv*. [DOI: 10.31219/osf.io/829v4_v1](https://doi.org/10.31219/osf.io/829v4_v1)
-
 [Access](https://osf.io/preprints/psyarxiv/vygbf_v1) **Webb, S. S.**, Jespersen, A., Grammatikos, P., Hobden, G., Chiu, E. G., Payne, F., … Demeyere, N. (2025, July 28). The Oxford COMPASS: A Brief Cognitive Screen to help guide Competency Assessments. *psyarxiv*. [DOI: 10.31234/osf.io/vygbf_v1](https://doi.org/10.31234/osf.io/vygbf_v1)
-
-[Access](https://doi.org/10.31234/osf.io/ym7wj_v1) Cowen, K., Tabone, F., **Webb, S. S.**, Kusec, A., DaSilva, R., Thomas, R., … Vancleef, K. (2025, June 10). Reliability and Validity of the Oxford Visual Perception Screen in Sub-Acute Adult Stroke Survivors. *psyarxiv*. [DOI: 10.31234/osf.io/ym7wj_v1](https://doi.org/10.31234/osf.io/ym7wj_v1)
-
-[Access](https://osf.io/preprints/psyarxiv/yb3fe) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. *psyarxiv*. [DOI: 10.31234/osf.io/yb3fe](https://doi.org/10.31234/osf.io/yb3fe)
 
 [Access](https://doi.org/10.1101/2025.06.04.25328952)  Cowen, K., Tabone, F., **Webb, S. S.,** Kusec, A., DaSilva, R., Thomas, R., Demeyere, N., Shaw, L., & Vancleef, K. (2025). Accuracy of the Oxford Visual Perception Screen. *medRxiv*. [DOI:10.1101/2025.06.04.25328952](https://doi.org/10.1101/2025.06.04.25328952)
 
@@ -32,6 +26,12 @@ title: "Personal Repository for Publications"
 
 ## <span style="color:black">**Peer-Reviewed Publications:**
 # **2025**
+[Access](https://doi.org/10.1177/10731911251384603) **Webb, S. S.,** Burns, S. P., & Demeyere, N. (2024, September 18). New normative data and convergent validity for the MET-Home revised in English speaking neurologically healthy adults and stroke survivors. *Assessment*. [DOI: 10.1177/10731911251384603](https://doi.org/10.1177/10731911251384603)
+
+[Access](https://doi.org/10.31219/osf.io/829v4_v1) Wo, Y., Demeyere, N. & **Webb, S. S.,** (2025, September 11). Comparison of the Tele-Oxford Cognitive Screen to a neuropsychological battery in chronic stroke survivors. *Journal of Neuropsychology*. [DOI: 10.1111/jnp.70021](https://doi.org/10.1111/jnp.70021)
+
+[Access](https://www.tandfonline.com/doi/10.1080/13854046.2025.2576149?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) Cowen, K., Tabone, F., **Webb, S. S.**, Kusec, A., DaSilva, R., Thomas, R., … Vancleef, K. (2025, June 10). Reliability and Validity of the Oxford Visual Perception Screen in Sub-Acute Adult Stroke Survivors. *The Clinical Neuropsychologist*. [DOI: 10.1080/13854046.2025.2576149](https://doi.org/10.1080/13854046.2025.2576149)
+
 [Access](https://healthopenresearch.org/articles/5-8) **Webb, S. S**, Carrick, C, Kusec, A, &  Demeyere, N. (2025). Introducing the Tele-OCS: A validated remotely administered version of The Oxford Cognitive Screen  [version 1; peer review: 3 approved]. *Health Open Res 2023*, 5:8, [DOI: 10.12688/healthopenres.13291.1](https://healthopenresearch.org/articles/5-8)  
 
 [Access](https://doi.org/10.1177/23969873251358811) **Webb SS**, Sun L, Tang EYH, Demeyere N. The mini-Oxford cognitive screen (Mini-OCS): A very brief cognitive screen for use in chronic stroke. *Eur Stroke J*. 2025 Jul 27:23969873251358811. Epub ahead of print. PMCID: PMC12301230.[DOI: 10.1177/23969873251358811](https://doi.org/10.1177/23969873251358811)

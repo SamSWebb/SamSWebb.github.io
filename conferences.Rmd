@@ -26,6 +26,11 @@ title: "Conferences"
 
 
 ## <span style="color:dodgerblue">**Poster content and location**
+<span style="color:purple">*The Oxford Cognitive Stream: Enhancing Cognitive Impairment Detection and Inclusivity in Stroke Care* -- Nov 2025
+
+-   UK Stroke Forum - November 2025: see it [here](https://osf.io/9sj73)
+
+
 <span style="color:purple">*The Mini-Oxford Cognitive Screen (Mini-OCS): A very brief cognitive screen for use in chronic stroke* -- September 2025
 
 -   Federation of the European Societies of Neuropsychology (FESN) - September 2025: see it [here](https://osf.io/k86t3).
