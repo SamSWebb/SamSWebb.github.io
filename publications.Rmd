@@ -10,6 +10,10 @@ title: "Personal Repository for Publications"
 </style>
 
 ## <span style="color:black">**Preprints:**
+# **2026**
+Screening for Post-stroke Cognitive Impairment: the effect of diagnostic criteria on prevalence and false positive rates. **Webb, S. S., Webb**$*$, Huygelier, H.,$*$, Demeyere, N., $+$, Gillebert, C. R.$+$ ($*$ joint first, $+$ joint senior). (2025). in-press. 
+
+
 # **2025**
 [Access](https://osf.io/preprints/psyarxiv/vygbf_v1) **Webb, S. S.**, Jespersen, A., Grammatikos, P., Hobden, G., Chiu, E. G., Payne, F., … Demeyere, N. (2025, July 28). The Oxford COMPASS: A Brief Cognitive Screen to help guide Competency Assessments. *psyarxiv*. [DOI: 10.31234/osf.io/vygbf_v1](https://doi.org/10.31234/osf.io/vygbf_v1)
 

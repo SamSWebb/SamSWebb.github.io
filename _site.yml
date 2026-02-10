@@ -15,8 +15,8 @@ navbar:
       href: cv.html
     - text: "End of DPhil booklet"
       href: EndOfDphilBooklet.html
-    - text: "Participate in Research"
-      href: Participate.html
+    # - text: "Participate in Research"
+    #   href: Participate.html
       
   right:
     - icon: fa-envelope fa-lg
