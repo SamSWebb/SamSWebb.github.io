@@ -10,16 +10,9 @@ title: "Personal Repository for Publications"
 </style>
 
 ## <span style="color:black">**Preprints or in-press:**
-# **2026**
-Screening for Post-stroke Cognitive Impairment: the effect of diagnostic criteria on prevalence and false positive rates. **Webb, S. S., Webb**$*$, Huygelier, H.,$*$, Demeyere, N., $+$, Gillebert, C. R.$+$ ($*$ joint first, $+$ joint senior). (2025). In-press *Cortex*. 
-
-Torenvliet, C., Verhoog, E. M., **Webb, S. S.**, Kessels, R. P. C., Jespersen, A., Demeyere, N., & Bertens, D. (2026). From store to screen: A first step in validating the Dutch Oxford Multiple Errands Test (OxMET-NL) for measuring executive function. In-press *Applied Neuropsychology: Adult*.
-
 
 # **2025**
 [Access](https://osf.io/preprints/psyarxiv/vygbf_v1) **Webb, S. S.**, Jespersen, A., Grammatikos, P., Hobden, G., Chiu, E. G., Payne, F., … Demeyere, N. (2025, July 28). The Oxford COMPASS: A Brief Cognitive Screen to help guide Competency Assessments. *psyarxiv*. [DOI: 10.31234/osf.io/vygbf_v1](https://doi.org/10.31234/osf.io/vygbf_v1)
-
-[Access](https://doi.org/10.1101/2025.06.04.25328952)  Cowen, K., Tabone, F., **Webb, S. S.,** Kusec, A., DaSilva, R., Thomas, R., Demeyere, N., Shaw, L., & Vancleef, K. (2025). Accuracy of the Oxford Visual Perception Screen. *medRxiv*. [DOI:10.1101/2025.06.04.25328952](https://doi.org/10.1101/2025.06.04.25328952)
 
 
 ---
@@ -34,6 +27,9 @@ Torenvliet, C., Verhoog, E. M., **Webb, S. S.**, Kessels, R. P. C., Jespersen, A
 ## <span style="color:black">**Peer-Reviewed Publications:**
 
 # **2026**
+[Access](https://doi.org/10.1080/23279095.2026.2725203) Torenvliet, C., Verhoog, E. M., **Webb, S. S.,** Kessels, R. P. C., Jespersen, A., Demeyere, N., & Bertens, D. (2026). From store to screen: A first step in validating the Dutch Oxford Multiple Errands Test (OxMET-NL) for measuring executive function. *Applied Neuropsychology*, Adult, 1–9. [DOI: 10.1080/23279095.2026.2725203](https://doi.org/10.1080/23279095.2026.2725203)
+
+[Access](https://doi.org/10.1016/j.cortex.2026.08.003) Screening for Post-stroke Cognitive Impairment: the effect of diagnostic criteria on prevalence and false positive rates. **Webb, S. S.,**$*$, Huygelier, H.,$*$, Demeyere, N., $+$, Gillebert, C. R.$+$ ($*$ joint first, $+$ joint senior). (2025). *Cortex*, 204, 144-153. [DOI: 10.1016/j.cortex.2026.08.003](https://doi.org/10.1016/j.cortex.2026.08.003)
 
 [Access](https://doi.org/10.1111/jnp.70021) Wo, Y., Demeyere, N., & **Webb, S. S**. (2026). Comparison of the Tele-Oxford Cognitive Screen to a neuropsychological battery in chronic stroke survivors. *Journal of Neuropsychology*, 20, 186–195. [DOI: 10.1111/jnp.70021](https://doi.org/10.1111/jnp.70021)
 
