@@ -11,6 +11,10 @@ title: "Personal Repository for Publications"
 
 ## <span style="color:black">**Preprints or in-press:**
 
+# **2026**
+**Webb, S. S.**, Grammatikos, P., Demeyere, N. (2026, September 29). Personalised Cognitive Screening in Stroke Care: Development and Pilot Evaluation of a Modular, Adaptive, and Co-Produced Screening Platform for Stroke. *In Review*. 
+
+
 # **2025**
 [Access](https://osf.io/preprints/psyarxiv/vygbf_v1) **Webb, S. S.**, Jespersen, A., Grammatikos, P., Hobden, G., Chiu, E. G., Payne, F., … Demeyere, N. (2025, July 28). The Oxford COMPASS: A Brief Cognitive Screen to help guide Competency Assessments. *psyarxiv*. [DOI: 10.31234/osf.io/vygbf_v1](https://doi.org/10.31234/osf.io/vygbf_v1)
 
