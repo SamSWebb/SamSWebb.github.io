@@ -31,7 +31,7 @@ title: "Personal Repository for Publications"
 ## <span style="color:black">**Peer-Reviewed Publications:**
 
 # **2026**
-[Access](https://doi.org/10.1016/j.cccb.2026.100567) Takács, T. T., Szabó, E., **Webb, S.S.,**, Kárpáti, J., Pálvölgyi, K., Pálinkás, P., Antal, O., Baross, J., Bruckner, B., Demeyere, N., & Gunda, B. (2026). The Hungarian version of the Oxford Cognitive Screen (OCS-HU): Normative data and comparison of mild stroke to neurologically healthy adults. Cerebral Circulation - Cognition and Behavior, 7, Article 100567. doi.org
+[Access](https://doi.org/10.1016/j.cccb.2026.100567) Takács, T. T., Szabó, E., **Webb, S.S.,**, Kárpáti, J., Pálvölgyi, K., Pálinkás, P., Antal, O., Baross, J., Bruckner, B., Demeyere, N., & Gunda, B. (2026). The Hungarian version of the Oxford Cognitive Screen (OCS-HU): Normative data and comparison of mild stroke to neurologically healthy adults. *Cerebral Circulation - Cognition and Behavior*, 7, Article 100567. [DOI: 10.1016/j.cccb.2026.100567](https://doi.org/10.1016/j.cccb.2026.100567)
 
 [Access](https://doi.org/10.1080/23279095.2026.2725203) Torenvliet, C., Verhoog, E. M., **Webb, S. S.,** Kessels, R. P. C., Jespersen, A., Demeyere, N., & Bertens, D. (2026). From store to screen: A first step in validating the Dutch Oxford Multiple Errands Test (OxMET-NL) for measuring executive function. *Applied Neuropsychology*, Adult, 1–9. [DOI: 10.1080/23279095.2026.2725203](https://doi.org/10.1080/23279095.2026.2725203)
 
