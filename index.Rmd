@@ -1,22 +1,57 @@
 ---
 title: "Dr. Sam S. Webb, DPhil (PhD) (he/him)"
 
-subtitle: "Postdoctoral Research Fellow"
+subtitle: "Digital Neuropsychology | Stroke | Cognitive Assessment"
 ---
 
-[Funded by The Stroke Association with a Postdoctoral Research Fellowship]{style="color:dodgerblue"}
+![](profilepic2.jpg){width="35%"}
 
-![](profilepic2.jpg){width="40%"}
+## Developing better ways to detect cognitive impairment after brain injury
 
-Experienced neuropsychological researcher with a Ph.D. and over eight years of hands-on expertise in developing, validating, and optimising cognitive assessment tools for diverse populations, from children to older adults, and those with acquired brain injury and degenerative neurological conditions. Skilled in leading end-to-end test development processes in research, from concept and piloting through to data analysis and implementation, combining deep knowledge of cognitive neuroscience with a practical, user-focused approach. Recognized for academic excellence and awarded two independent fully-funded fellowship by the Stroke Association. Adept at personal and group project management. 
+I am a neuropsychology and digital-health researcher at the **University of Oxford**, developing better ways to identify cognitive impairment after stroke and acquired brain injury.
 
-On the whole, my focus is on cognition and how we measure **cognitive dysfunction** in acquired brain injury. I am particularly interested in clinical tool development, especially **validation** work, and **neuropsychology**.
+My work combines **psychometrics, digital assessment, clinical implementation, and translational research**, with a particular focus on creating assessments that remain useful when brain injury affects language, attention, vision, memory, or movement.
 
-As of the 2024/2025 academic year, I am a postdoctoral researcher at the **University of Oxford** [Department of Clinical Neurosciences](https://www.ndcn.ox.ac.uk/team/sam-s-webb).  
+I have held two independently funded **Stroke Association fellowships** supporting the development and validation of new cognitive assessment technologies. My research includes development of the **Oxford Digital Multiple Errands Test (OxMET)** and large multi-site programmes investigating digital and adaptive cognitive screening across the stroke pathway.
 
-I completed DPhil at the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/) at University of Oxford, for the [Translational Neuropsychology Lab](https://www.psy.ox.ac.uk/research/translational-neuropsychology), and I was funded via a Postgraduate Fellowship through [The Stroke Association](https://www.stroke.org.uk). 
+### Research impact
 
-I completed my MSc in [Psychological Research](https://www.ox.ac.uk/admissions/graduate/courses/msc-psychological-research?wssl=1) at the University of Oxford in England, and completed a BSc in [Psychology with Neuropsychology](https://www.bangor.ac.uk/courses/undergraduate/C801-Psychology-with-Neuropsychology) from Bangor University, in North Wales.  
+| **2** | **~20** | **1,000+** | **24** |
+|:---:|:---:|:---:|:---:|
+| Stroke Association fellowships | NHS research sites | OxMET licences issued internationally | Peer-reviewed publications |
 
+## What I work on
 
-*Stroke Association are copyright holders for the profile image*.  
+### Measure
+
+Developing and validating cognitive assessments that are psychometrically robust and clinically meaningful.
+
+### Include
+
+Designing tools that are suitable for people with aphasia, neglect, motor impairment, and different levels of stroke severity.
+
+### Translate
+
+Moving academic cognitive assessments towards scalable digital tools that can be used in routine clinical care.
+
+## About my work
+
+My research asks a simple question:
+
+**How can we measure cognition accurately and fairly when brain injury affects people in very different ways?**
+
+I am particularly interested in **digital neuropsychology**, **cognitive assessment**, and the translation of validated research tools into products that can improve clinical decision-making.
+
+I currently work with NHS stroke services across the UK, alongside stroke survivors, clinicians, researchers, and industry partners, to ensure that new tools are scientifically robust, practical, and inclusive.
+
+My longer-term goal is to bridge the gap between **academic innovation and routine patient care** by developing regulated, scalable digital assessment platforms that help clinicians identify cognitive impairment earlier, reduce inequalities in assessment, and ensure that people affected by stroke receive the right assessment at the right time.
+
+## Background
+
+I am a postdoctoral researcher in the **University of Oxford** [Department of Clinical Neurosciences](https://www.ndcn.ox.ac.uk/team/sam-s-webb).
+
+I completed my DPhil at the [Department of Experimental Psychology](https://www.psy.ox.ac.uk/) at the University of Oxford within the [Translational Neuropsychology Lab](https://www.psy.ox.ac.uk/research/translational-neuropsychology), funded by a Postgraduate Fellowship from [The Stroke Association](https://www.stroke.org.uk).
+
+I previously completed an MSc in [Psychological Research](https://www.ox.ac.uk/admissions/graduate/courses/msc-psychological-research?wssl=1) at the University of Oxford and a BSc in [Psychology with Neuropsychology](https://www.bangor.ac.uk/courses/undergraduate/C801-Psychology-with-Neuropsychology) at Bangor University.
+
+*The Stroke Association holds copyright for the profile image.*
