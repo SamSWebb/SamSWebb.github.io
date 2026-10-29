@@ -1,5 +1,5 @@
 ---
-title: "CV - 2025"
+title: "CV - 2026"
 ---
 
-<iframe src="https://github.com/SamSWebb/SamSWebb.github.io/blob/master/CirriculumVitae_2025.pdf" width="100%" height="1000px"></iframe>
+<iframe src="https://github.com/SamSWebb/SamSWebb.github.io/blob/master/CirriculumVitae_2026.pdf" width="100%" height="1000px"></iframe>
